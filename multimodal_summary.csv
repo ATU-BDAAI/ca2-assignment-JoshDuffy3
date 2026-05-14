@@ -1,0 +1,28 @@
+file_name,main_title,top_keywords,named_entities,titles_found,paragraphs_found,table_references,figure_references,possible_tables_from_text,detected_table_regions,segmented_regions,table_ocr_results,document_insight
+a-short-guide_page_1.png,A SHORT GUIDE,"xy (0.5637), short (0.4946), guide (0.4946), dublin (0.4394)",XY Dublin (PERSON),1,0,0,0,0,0,15,0,titles/headings identified; multiple segmented document regions found
+a-short-guide_page_10.png,,"ocs (0.3119), reduced (0.2852), assistance (0.2291), mobility (0.2291), airline (0.1872)","9 (CARDINAL), OCS (ORG), OCS (ORG), Dublin Airport (FAC), Dublin (GPE)",0,6,0,0,0,0,18,0,multiple segmented document regions found
+a-short-guide_page_11.png,PARKS,"term (0.5431), park (0.3913), car (0.3579), block (0.3259), short (0.2697)","Dublin Airport Short (FAC), ON | Teme (WORK_OF_ART), Qs Vr Steams
+s mm (PERSON), Short Term Parking
+
+Terminal
+O- (ORG)",13,4,0,0,1,2,21,2,titles/headings identified; possible table-like text found; table-like visual regions detected; table OCR extracted from cropped regions; multiple segmented document regions found
+a-short-guide_page_12.png,Gates,"minute (0.4705), approx (0.3767), walking (0.3445), t1 (0.298), gate (0.2959)","401 (CARDINAL), 7 minutes (TIME), T2 Security
+Screening (ORG), Dublin Airport (FAC), 336 (CARDINAL)",17,5,0,0,0,0,7,0,titles/headings identified
+a-short-guide_page_2.png,A Short Guide,"accessibility (0.3705), website (0.2816), app (0.247), airport (0.2044), com (0.1634)","the summer
+months (DATE), the year (DATE), Dublin Airport (FAC)",1,2,0,0,0,0,1,0,titles/headings identified
+a-short-guide_page_3.png,Contents,"bb (0.2369), programme (0.2369), eb (0.2369), content (0.2369), way (0.2078)","BB Arriving (ORG), 4 (CARDINAL), 4 (CARDINAL), Drinking (PERSON), 3 (CARDINAL)",9,3,0,0,0,0,11,0,titles/headings identified; multiple segmented document regions found
+a-short-guide_page_4.png,Finding Your Way Around,"park (0.4379), car (0.429), terminal (0.2756), gate (0.2457), bus (0.1877)","two (CARDINAL), Terminal 1 and (ORG), Terminal 2 (ORG), Aer Lingus (ORG), American Airlines (ORG)",3,6,0,0,0,0,10,0,titles/headings identified
+a-short-guide_page_5.png,"3, Checking In","check (0.5769), airline (0.3464), self (0.2192), pas (0.1923), bag (0.1923)","3 (CARDINAL), Security Screening (ORG), one (CARDINAL), SSK (ORG), US (GPE)",5,2,0,0,0,0,9,0,titles/headings identified
+a-short-guide_page_6.png,Security Screening,"security (0.3227), gel (0.2798), baggage (0.2798), liquid (0.2798), screening (0.2285)","Security Screening (ORG), Security Screening (FAC), Assistance Lane (PERSON), Security Screening (ORG), 100 (CARDINAL)",2,7,0,0,0,0,0,0,titles/headings identified
+a-short-guide_page_7.png,B Your Boarding/Departure Gate,"gate (0.5814), screen (0.329), departure (0.2256), number (0.2256), boarding (0.2084)","B Your Boarding/Departure Gate
+ (WORK_OF_ART), Security Screening (FAC), one (CARDINAL), the Flight Information Screens (WORK_OF_ART), the Dublin Airport (FAC)",2,2,0,0,0,0,8,0,titles/headings identified
+a-short-guide_page_8.png,6. Washrooms,"washroom (0.3641), collect (0.249), lounge (0.249), shop (0.249), area (0.1927)","XY Dublin Airport (FAC), 6 (CARDINAL), Eating (PERSON), Drinking (PERSON), Security Screening (FAC)",2,3,0,0,0,0,23,0,titles/headings identified; multiple segmented document regions found
+a-short-guide_page_9.png,8. We Are Here To Help,"team (0.4768), visibility (0.2384), experience (0.2091), customer (0.1884), high (0.1884)","DublinAirport (ORG), 8 (CARDINAL), Customer Service (ORG), one (CARDINAL), Dublin Airport (FAC)",1,3,0,0,0,0,24,0,titles/headings identified; multiple segmented document regions found
+agentic rag1_page_1.png,AGENTIC RETRIEVAL-AUGMENTED GENERATION: A SURVEY ON,"rag (0.3481), agentic (0.3191), retrieval (0.203), ai (0.1932), university (0.1835)","Department of Computer Science Kent State University Khoury College of Computer Science
+ (ORG), Cleveland State University (ORG), OH (GPE), USA Northeastern University (ORG), Cleveland (GPE)",5,4,0,0,0,0,2,0,titles/headings identified
+agentic rag29_page_1.png,6 Comparative Analysis of Agentic RAG Frameworks,"rag (0.4037), agentic (0.38), workflow (0.285), multi (0.2375), system (0.19)","6 (CARDINAL), 2 (CARDINAL), three (CARDINAL), Traditional RAG (PERSON), Agentic Document Workflows (WORK_OF_ART)",4,7,2,0,1,1,1,1,titles/headings identified; text references tables; possible table-like text found; table-like visual regions detected; table OCR extracted from cropped regions
+agentic rag8_page_1.png,Paradigm Key Features Strengths,"rag (0.4196), retrieval (0.2259), multi (0.2259), reasoning (0.1936), agentic (0.1936)","1 (CARDINAL), Advanced RAG DPR (PERSON), + Neural (ORG), API (ORG), Graph RAG * Multi (PERSON)",4,6,1,0,0,1,1,1,titles/headings identified; text references tables; table-like visual regions detected; table OCR extracted from cropped regions
+Colosseum.jpg,,,,0,0,0,0,0,0,34,0,multiple segmented document regions found
+handwritten_receipt.jfif,2 PLEASE mse Loe RECEIPT aT Nt NEXT PAYMENT.,"receipt (0.1632), nt (0.1632), loe (0.1632), oun (0.1632), bey (0.1632)","2 (CARDINAL), fm cole & A (ORG), JUALIN (ORG), ASC (ORG), SNS (ORG)",4,2,0,0,0,0,55,0,titles/headings identified; multiple segmented document regions found
+movie poster.jpeg,,"ren (0.4163), michael (0.4163), roeetz (0.4163), chau (0.4163), azie (0.4163)",MICHAEL (PERSON),0,1,0,0,0,0,27,0,multiple segmented document regions found
+receipt-ocr-original.jpg,Walmar ><.,"97 (0.5457), stko (0.1984), sunflwr (0.1984), 48 (0.1984), 98 (0.1984)","Walmar > (PERSON), 3 (CARDINAL), 231 (CARDINAL), 2.5 (CARDINAL), PED (ORG)",86,6,0,0,0,0,4,0,titles/headings identified

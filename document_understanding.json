@@ -404,6 +404,28 @@
         "number_of_possible_tables": 0
     },
     {
+        "file_name": "handwritten_receipt.jfif",
+        "main_title": "2 PLEASE mse Loe RECEIPT aT Nt NEXT PAYMENT.",
+        "titles": [
+            "2 PLEASE mse Loe RECEIPT aT Nt NEXT PAYMENT.",
+            "ONES,",
+            "SNS",
+            "(2 Adjusted Poor Rate"
+        ],
+        "number_of_titles": 4,
+        "paragraphs": [
+            "2 PLEASE mse Loe RECEIPT aT Nt NEXT PAYMENT. The ony a the oun Vas a Office : ne melds a",
+            "(Income Tax... ros A Total, = was Lo ee 2."
+        ],
+        "number_of_paragraphs": 2,
+        "figure_references": [],
+        "number_of_figure_references": 0,
+        "table_references": [],
+        "number_of_table_references": 0,
+        "extracted_tables": [],
+        "number_of_possible_tables": 0
+    },
+    {
         "file_name": "movie poster.jpeg",
         "main_title": null,
         "titles": [],

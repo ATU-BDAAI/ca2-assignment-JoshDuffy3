@@ -1,0 +1,5127 @@
+[
+    {
+        "file_name": "a-short-guide_page_1.png",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\a-short-guide_page_1.png",
+        "main_title": "A SHORT GUIDE",
+        "titles": [
+            "A SHORT GUIDE"
+        ],
+        "figure_references": [],
+        "table_references": [],
+        "ocr_text": "XY Dublin\nA SHORT GUIDE\n\n",
+        "cleaned_text": "xy dublin short guide",
+        "keywords": [
+            [
+                "xy",
+                0.5637
+            ],
+            [
+                "short",
+                0.4946
+            ],
+            [
+                "guide",
+                0.4946
+            ],
+            [
+                "dublin",
+                0.4394
+            ]
+        ],
+        "named_entities": [
+            [
+                "XY Dublin",
+                "PERSON",
+                "People, including fictional"
+            ]
+        ],
+        "possible_tables_from_text": [],
+        "detected_visual_regions": [],
+        "segmented_regions": [
+            {
+                "x": 409,
+                "y": 0,
+                "w": 782,
+                "h": 853,
+                "area": 13975,
+                "type": "Large Region"
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "w": 500,
+                "h": 357,
+                "area": 3284,
+                "type": "Large Region"
+            },
+            {
+                "x": 167,
+                "y": 456,
+                "w": 84,
+                "h": 82,
+                "area": 2048,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 177,
+                "y": 575,
+                "w": 66,
+                "h": 76,
+                "area": 1361,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 270,
+                "y": 574,
+                "w": 58,
+                "h": 79,
+                "area": 1567,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 341,
+                "y": 575,
+                "w": 56,
+                "h": 76,
+                "area": 1468,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 411,
+                "y": 574,
+                "w": 59,
+                "h": 79,
+                "area": 1575,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 484,
+                "y": 575,
+                "w": 57,
+                "h": 76,
+                "area": 1711,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 629,
+                "y": 574,
+                "w": 59,
+                "h": 79,
+                "area": 1606,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 701,
+                "y": 575,
+                "w": 57,
+                "h": 78,
+                "area": 1351,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 798,
+                "y": 575,
+                "w": 56,
+                "h": 76,
+                "area": 1641,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 867,
+                "y": 575,
+                "w": 49,
+                "h": 76,
+                "area": 1455,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 279,
+                "y": 1067,
+                "w": 912,
+                "h": 617,
+                "area": 15982,
+                "type": "Large Region"
+            },
+            {
+                "x": 0,
+                "y": 1285,
+                "w": 319,
+                "h": 376,
+                "area": 2559,
+                "type": "Large Region"
+            },
+            {
+                "x": 812,
+                "y": 1581,
+                "w": 196,
+                "h": 32,
+                "area": 3378,
+                "type": "Text/Visual Region"
+            }
+        ],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\a-short-guide_page_1_preprocessed.png",
+        "table_ocr_results": [],
+        "number_of_titles": 1,
+        "number_of_paragraphs": 0,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 0,
+        "number_of_possible_tables_from_text": 0,
+        "number_of_detected_table_regions": 0,
+        "number_of_segmented_regions": 15,
+        "number_of_table_ocr_results": 0,
+        "document_insight": "titles/headings identified; multiple segmented document regions found"
+    },
+    {
+        "file_name": "a-short-guide_page_10.png",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\a-short-guide_page_10.png",
+        "main_title": null,
+        "titles": [],
+        "figure_references": [],
+        "table_references": [],
+        "ocr_text": "y DublinAirport A SHORT GUIDE\n\n9. @s Reduced Mobility Assistance\n\nWe also work with a company called OCS who provide support services to anyone with\nreduced mobility who requires assistance or help with the walk to the gate areas.\nIf you require reduced mobility assistance, you should notify your airline in advance of\ntravel. Your airline will arrange this for you with OCS for your departure from Dublin Airport\nand with the appropriate supplier at your destination airport. If you are returning to Dublin,\nthis will be noted in your booking by the airline and OCS to ensure you have the same\nservice on arrival back. It is very important that you go to the OCS Desk or meet them at a\ncall point in the car parks before you go through Security Screening. For more information\nand detail on this, please go to www.dublinairport.com/car-parks/reduced-mobility.\n\nIf you are departing from Gates 100-121 and would like help to cover the distance, you\ncan pick up the OCS buggy. The buggy does not need to be pre-booked and runs from\n05:00-22:00 daily.. The pick up location is shown on the map of the terminals.\n\nFor reduced mobility\nassistance queries\nplease contact:\nprm@daa.ie\n\nThe airport can be very challenging for ASD\npassengers. Our Important Flyer wristband or\nlanyard allows our staff at Dublin Airport to recog-\n\nnise that a passenger has a non-visible disability\n\nand might require assistance. For more information\n\non the lanyard and how to apply for one, visit\ndublinairport.com/accessibility/autism-non-visible-disabilities\n\nos\n",
+        "cleaned_text": "dublinairport short guide reduced mobility assistance also work company called ocs provide support service anyone reduced mobility requires assistance help walk gate area require reduced mobility assistance notify airline advance travel airline arrange ocs departure dublin airport appropriate supplier destination airport returning dublin noted booking airline ocs ensure service arrival back important go ocs desk meet call point car park go security screening information detail please go www dublinairport com car park reduced mobility departing gate 100 121 would like help cover distance pick ocs buggy buggy need pre booked run 05 00 22 00 daily pick location shown map terminal reduced mobility assistance query please contact prm daa ie airport challenging asd passenger important flyer wristband lanyard allows staff dublin airport recog nise passenger non visible disability might require assistance information lanyard apply one visit dublinairport com accessibility autism non visible disability o",
+        "keywords": [
+            [
+                "ocs",
+                0.3119
+            ],
+            [
+                "reduced",
+                0.2852
+            ],
+            [
+                "assistance",
+                0.2291
+            ],
+            [
+                "mobility",
+                0.2291
+            ],
+            [
+                "airline",
+                0.1872
+            ],
+            [
+                "go",
+                0.1711
+            ],
+            [
+                "disability",
+                0.1579
+            ],
+            [
+                "visible",
+                0.1579
+            ],
+            [
+                "airport",
+                0.1528
+            ],
+            [
+                "buggy",
+                0.1385
+            ]
+        ],
+        "named_entities": [
+            [
+                "9",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "OCS",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "OCS",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Dublin Airport",
+                "FAC",
+                "Buildings, airports, highways, bridges, etc."
+            ],
+            [
+                "Dublin",
+                "GPE",
+                "Countries, cities, states"
+            ],
+            [
+                "OCS",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "the OCS Desk",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Security Screening",
+                "FAC",
+                "Buildings, airports, highways, bridges, etc."
+            ],
+            [
+                "100",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "OCS",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "05:00-22:00",
+                "TIME",
+                "Times smaller than a day"
+            ],
+            [
+                "daily",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "Important Flyer",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "Dublin Airport",
+                "FAC",
+                "Buildings, airports, highways, bridges, etc."
+            ]
+        ],
+        "possible_tables_from_text": [],
+        "detected_visual_regions": [],
+        "segmented_regions": [
+            {
+                "x": 211,
+                "y": 174,
+                "w": 88,
+                "h": 47,
+                "area": 2086,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 153,
+                "y": 177,
+                "w": 45,
+                "h": 45,
+                "area": 1574,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 212,
+                "y": 681,
+                "w": 592,
+                "h": 297,
+                "area": 8444,
+                "type": "Large Region"
+            },
+            {
+                "x": 545,
+                "y": 716,
+                "w": 78,
+                "h": 43,
+                "area": 1034,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 393,
+                "y": 719,
+                "w": 96,
+                "h": 70,
+                "area": 1857,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 212,
+                "y": 740,
+                "w": 592,
+                "h": 391,
+                "area": 6638,
+                "type": "Large Region"
+            },
+            {
+                "x": 325,
+                "y": 749,
+                "w": 93,
+                "h": 102,
+                "area": 1277,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 361,
+                "y": 781,
+                "w": 58,
+                "h": 100,
+                "area": 1086,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 554,
+                "y": 802,
+                "w": 71,
+                "h": 123,
+                "area": 1394,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 614,
+                "y": 874,
+                "w": 68,
+                "h": 74,
+                "area": 1224,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 273,
+                "y": 903,
+                "w": 180,
+                "h": 215,
+                "area": 6435,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 459,
+                "y": 911,
+                "w": 119,
+                "h": 93,
+                "area": 1328,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 424,
+                "y": 953,
+                "w": 276,
+                "h": 166,
+                "area": 9975,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 153,
+                "y": 1205,
+                "w": 45,
+                "h": 45,
+                "area": 1451,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 213,
+                "y": 1260,
+                "w": 332,
+                "h": 253,
+                "area": 7434,
+                "type": "Large Region"
+            },
+            {
+                "x": 240,
+                "y": 1356,
+                "w": 123,
+                "h": 51,
+                "area": 1508,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 242,
+                "y": 1371,
+                "w": 138,
+                "h": 59,
+                "area": 1482,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 355,
+                "y": 1407,
+                "w": 166,
+                "h": 66,
+                "area": 2468,
+                "type": "Text/Visual Region"
+            }
+        ],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\a-short-guide_page_10_preprocessed.png",
+        "table_ocr_results": [],
+        "number_of_titles": 0,
+        "number_of_paragraphs": 6,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 0,
+        "number_of_possible_tables_from_text": 0,
+        "number_of_detected_table_regions": 0,
+        "number_of_segmented_regions": 18,
+        "number_of_table_ocr_results": 0,
+        "document_insight": "multiple segmented document regions found"
+    },
+    {
+        "file_name": "a-short-guide_page_11.png",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\a-short-guide_page_11.png",
+        "main_title": "PARKS",
+        "titles": [
+            "PARKS",
+            "TO LONG TERM",
+            "& SHORT TERM",
+            "CAR PARKS",
+            "Qs Vr Steams",
+            "Terminal",
+            "O- Block A",
+            "O- Block 8",
+            "(O- Block",
+            "\u00a9 : Teminl2",
+            "> Short Term Car Park.",
+            "\\ \u2014\u2014 \u2018 Y O-Tesurfoce",
+            "@S Reduced Mobility"
+        ],
+        "figure_references": [],
+        "table_references": [],
+        "ocr_text": "ASHORTGUIDE XY DublinAirport\n\nDublin Airport Short and Long Term Car Parks Map\n\nPARKS\n\u2018yaa CAR ROUTES\nTO LONG TERM\n& SHORT TERM\nCAR PARKS\n\u201cON | Teme tat\nQs Vr Steams\ns mm Short Term Parking\n\nTerminal\nO- Block A\nO- Block 8\n(O- Block\n\n|\n\u00a9 : Teminl2\n> Short Term Car Park.\n\\ \u2014\u2014 \u2018 Y O-Tesurfoce\n\n@S Reduced Mobility\n\nos\n",
+        "cleaned_text": "ashortguide xy dublinairport dublin airport short long term car park map park yaa car route long term short term car park teme tat q vr steam mm short term parking terminal block block block teminl2 short term car park tesurfoce reduced mobility o",
+        "keywords": [
+            [
+                "term",
+                0.5431
+            ],
+            [
+                "park",
+                0.3913
+            ],
+            [
+                "car",
+                0.3579
+            ],
+            [
+                "block",
+                0.3259
+            ],
+            [
+                "short",
+                0.2697
+            ],
+            [
+                "long",
+                0.2172
+            ],
+            [
+                "teme",
+                0.1238
+            ],
+            [
+                "vr",
+                0.1238
+            ],
+            [
+                "route",
+                0.1238
+            ],
+            [
+                "tat",
+                0.1238
+            ]
+        ],
+        "named_entities": [
+            [
+                "Dublin Airport Short",
+                "FAC",
+                "Buildings, airports, highways, bridges, etc."
+            ],
+            [
+                "ON | Teme",
+                "WORK_OF_ART",
+                "Titles of books, songs, etc."
+            ],
+            [
+                "Qs Vr Steams\ns mm",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "Short Term Parking\n\nTerminal\nO-",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ]
+        ],
+        "possible_tables_from_text": [
+            [
+                [
+                    "\u201cON",
+                    "Teme tat"
+                ]
+            ]
+        ],
+        "detected_visual_regions": [
+            {
+                "x": 653,
+                "y": 667,
+                "w": 120,
+                "h": 72,
+                "area": 8640
+            },
+            {
+                "x": 765,
+                "y": 243,
+                "w": 295,
+                "h": 544,
+                "area": 160480
+            }
+        ],
+        "segmented_regions": [
+            {
+                "x": 764,
+                "y": 243,
+                "w": 295,
+                "h": 543,
+                "area": 13422,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 863,
+                "y": 302,
+                "w": 166,
+                "h": 110,
+                "area": 10681,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 194,
+                "y": 318,
+                "w": 477,
+                "h": 224,
+                "area": 4611,
+                "type": "Large Region"
+            },
+            {
+                "x": 404,
+                "y": 373,
+                "w": 60,
+                "h": 140,
+                "area": 1321,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 472,
+                "y": 372,
+                "w": 48,
+                "h": 81,
+                "area": 1505,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 483,
+                "y": 372,
+                "w": 97,
+                "h": 131,
+                "area": 1412,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 383,
+                "y": 374,
+                "w": 277,
+                "h": 239,
+                "area": 2156,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 653,
+                "y": 375,
+                "w": 95,
+                "h": 276,
+                "area": 1425,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 303,
+                "y": 379,
+                "w": 58,
+                "h": 102,
+                "area": 1942,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 752,
+                "y": 382,
+                "w": 37,
+                "h": 148,
+                "area": 1319,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 209,
+                "y": 435,
+                "w": 75,
+                "h": 117,
+                "area": 1377,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 862,
+                "y": 502,
+                "w": 170,
+                "h": 242,
+                "area": 6252,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 205,
+                "y": 540,
+                "w": 312,
+                "h": 114,
+                "area": 2011,
+                "type": "Possible Heading/Table Line"
+            },
+            {
+                "x": 652,
+                "y": 544,
+                "w": 136,
+                "h": 194,
+                "area": 2846,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 803,
+                "y": 544,
+                "w": 23,
+                "h": 190,
+                "area": 1298,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 487,
+                "y": 666,
+                "w": 163,
+                "h": 44,
+                "area": 1138,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 369,
+                "y": 703,
+                "w": 279,
+                "h": 39,
+                "area": 3027,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 287,
+                "y": 733,
+                "w": 173,
+                "h": 14,
+                "area": 1096,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 649,
+                "y": 753,
+                "w": 179,
+                "h": 33,
+                "area": 1560,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 291,
+                "y": 757,
+                "w": 353,
+                "h": 29,
+                "area": 3023,
+                "type": "Possible Heading/Table Line"
+            },
+            {
+                "x": 134,
+                "y": 765,
+                "w": 152,
+                "h": 21,
+                "area": 1179,
+                "type": "Text/Visual Region"
+            }
+        ],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\a-short-guide_page_11_preprocessed.png",
+        "table_ocr_results": [
+            {
+                "file_name": "a-short-guide_page_11.png",
+                "table_number": 1,
+                "region": {
+                    "x": 653,
+                    "y": 667,
+                    "w": 120,
+                    "h": 72,
+                    "area": 8640
+                },
+                "ocr_text": "",
+                "character_count": 0
+            },
+            {
+                "file_name": "a-short-guide_page_11.png",
+                "table_number": 2,
+                "region": {
+                    "x": 765,
+                    "y": 243,
+                    "w": 295,
+                    "h": 544,
+                    "area": 160480
+                },
+                "ocr_text": "CAR ROUTES\nTO LONG TERM\n& SHORT TERM\nCAR PARKS\nLong Term Parking\n(O- Express Red\nHoly Blue\nShort Term Parking\nTerminal\nO- Block\nBlock 8\nO- Blk\nTerminal\nO> Short Term Car Park\nO- Tesufoce\nOS Reduced Mobility",
+                "character_count": 206
+            }
+        ],
+        "number_of_titles": 13,
+        "number_of_paragraphs": 4,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 0,
+        "number_of_possible_tables_from_text": 1,
+        "number_of_detected_table_regions": 2,
+        "number_of_segmented_regions": 21,
+        "number_of_table_ocr_results": 2,
+        "document_insight": "titles/headings identified; possible table-like text found; table-like visual regions detected; table OCR extracted from cropped regions; multiple segmented document regions found"
+    },
+    {
+        "file_name": "a-short-guide_page_12.png",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\a-short-guide_page_12.png",
+        "main_title": "Gates",
+        "titles": [
+            "Gates",
+            "Screening",
+            "\u20acY Dublin Airport",
+            "A SHORT GUIDE",
+            "Dublin Airport Terminals Map",
+            "Gates Gates Gates Gates",
+            "336-337 332-335 301-307A 201-216",
+            "10 minutes walking",
+            "Screening.",
+            "Gate 335,",
+            "Gates",
+            "335A-F Approx 10 - 15",
+            "Security Screening",
+            "Buggy Pick",
+            "Up Point",
+            "Gates",
+            "Screening"
+        ],
+        "figure_references": [],
+        "table_references": [],
+        "ocr_text": "Gates\n401-426\n\nApprox 7 minutes\nwalking time\nfrom T2 Security\nScreening\n\n\u20acY Dublin Airport\nA SHORT GUIDE\n\nDublin Airport Terminals Map\n\nGates Gates Gates Gates\n336-337 332-335 301-307A 201-216\nApprox 5 minutes Approx 3 minutes Approx 3 minutes Approx 5 minutes\nwalking time walking time walking time walking time\nfrom T2 Security from T1 Security from T1 Security from T1 Security\nScreening Screening or approx. Screening Screening\n\n10 minutes walking\n\ntime from T2 Security\nScreening.\n\nGate 335,\nis access point\n=f for two minute\nbus journey to\n\nGates\nboarding area 101-121\n335A-F Approx 10 - 15\nminutes walking\ntime from T1\n\nSecurity Screening\n\nBuggy Pick\nUp Point\n\n[fl <securny &\nocs DESK\n\nGates\n217-220\n\nApprox 5 minutes\nwalking time\nfrom T1 Security\nScreening\n\nProduced for\n\ndaaS=\n",
+        "cleaned_text": "gate 401 426 approx minute walking time t2 security screening dublin airport short guide dublin airport terminal map gate gate gate gate 336 337 332 335 301 307a 201 216 approx minute approx minute approx minute approx minute walking time walking time walking time walking time t2 security t1 security t1 security t1 security screening screening approx screening screening 10 minute walking time t2 security screening gate 335 access point two minute bus journey gate boarding area 101 121 335a approx 10 15 minute walking time t1 security screening buggy pick point fl securny ocs desk gate 217 220 approx minute walking time t1 security screening produced daas",
+        "keywords": [
+            [
+                "minute",
+                0.4705
+            ],
+            [
+                "approx",
+                0.3767
+            ],
+            [
+                "walking",
+                0.3445
+            ],
+            [
+                "t1",
+                0.298
+            ],
+            [
+                "gate",
+                0.2959
+            ],
+            [
+                "screening",
+                0.2596
+            ],
+            [
+                "security",
+                0.2444
+            ],
+            [
+                "time",
+                0.2444
+            ],
+            [
+                "t2",
+                0.1788
+            ],
+            [
+                "10",
+                0.1192
+            ]
+        ],
+        "named_entities": [
+            [
+                "401",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "7 minutes",
+                "TIME",
+                "Times smaller than a day"
+            ],
+            [
+                "T2 Security\nScreening",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Dublin Airport",
+                "FAC",
+                "Buildings, airports, highways, bridges, etc."
+            ],
+            [
+                "336",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "201",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "5 minutes",
+                "TIME",
+                "Times smaller than a day"
+            ],
+            [
+                "3 minutes",
+                "TIME",
+                "Times smaller than a day"
+            ],
+            [
+                "3 minutes",
+                "TIME",
+                "Times smaller than a day"
+            ],
+            [
+                "Approx 5 minutes",
+                "EVENT",
+                "Named hurricanes, battles, wars, sports events, etc."
+            ],
+            [
+                "T2 Security",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "T1 Security",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "T1 Security",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "T1 Security\nScreening Screening",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Screening Screening",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "10 minutes",
+                "TIME",
+                "Times smaller than a day"
+            ],
+            [
+                "T2 Security\nScreening",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "335",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "two minute",
+                "TIME",
+                "Times smaller than a day"
+            ],
+            [
+                "101",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "335A-F Approx",
+                "PRODUCT",
+                "Objects, vehicles, foods, etc. (not services)"
+            ],
+            [
+                "T1\n\nSecurity Screening\n\nBuggy Pick",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "DESK\n\nGates",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "217",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "5 minutes",
+                "TIME",
+                "Times smaller than a day"
+            ],
+            [
+                "T1 Security\nScreening\n\nProduced for",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ]
+        ],
+        "possible_tables_from_text": [],
+        "detected_visual_regions": [],
+        "segmented_regions": [
+            {
+                "x": 398,
+                "y": 134,
+                "w": 72,
+                "h": 67,
+                "area": 2026,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 304,
+                "y": 496,
+                "w": 834,
+                "h": 692,
+                "area": 25710,
+                "type": "Large Region"
+            },
+            {
+                "x": 128,
+                "y": 912,
+                "w": 119,
+                "h": 214,
+                "area": 1089,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 487,
+                "y": 920,
+                "w": 90,
+                "h": 32,
+                "area": 1089,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 441,
+                "y": 956,
+                "w": 213,
+                "h": 241,
+                "area": 5908,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 252,
+                "y": 1082,
+                "w": 89,
+                "h": 100,
+                "area": 1570,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 240,
+                "y": 1121,
+                "w": 177,
+                "h": 176,
+                "area": 1106,
+                "type": "Text/Visual Region"
+            }
+        ],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\a-short-guide_page_12_preprocessed.png",
+        "table_ocr_results": [],
+        "number_of_titles": 17,
+        "number_of_paragraphs": 5,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 0,
+        "number_of_possible_tables_from_text": 0,
+        "number_of_detected_table_regions": 0,
+        "number_of_segmented_regions": 7,
+        "number_of_table_ocr_results": 0,
+        "document_insight": "titles/headings identified"
+    },
+    {
+        "file_name": "a-short-guide_page_2.png",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\a-short-guide_page_2.png",
+        "main_title": "A Short Guide",
+        "titles": [
+            "A Short Guide"
+        ],
+        "figure_references": [],
+        "table_references": [],
+        "ocr_text": "A Short Guide\n\nDublin Airport can be a busy place over the summer\nmonths and at times throughout the year. We've\nput together this short guide containing helpful\ninformation and tips to make your airport journey a little\neasier. You can also find more information including\ninteractive maps, security queue times and flight alerts\non our website dublinairport.com or by downloading\nour Dublin Airport app.\n\nWe endeavour to adhere to accessibility guidelines\nfor this document and on our website and app.\nRead our Accessibility Statement by visiting\ndublinairport.com/accessibility.\n\n",
+        "cleaned_text": "short guide dublin airport busy place summer month time throughout year put together short guide containing helpful information tip make airport journey little easier also find information including interactive map security queue time flight alert website dublinairport com downloading dublin airport app endeavour adhere accessibility guideline document website app read accessibility statement visiting dublinairport com accessibility",
+        "keywords": [
+            [
+                "accessibility",
+                0.3705
+            ],
+            [
+                "website",
+                0.2816
+            ],
+            [
+                "app",
+                0.247
+            ],
+            [
+                "airport",
+                0.2044
+            ],
+            [
+                "com",
+                0.1634
+            ],
+            [
+                "guide",
+                0.1534
+            ],
+            [
+                "short",
+                0.1534
+            ],
+            [
+                "information",
+                0.1534
+            ],
+            [
+                "time",
+                0.1444
+            ],
+            [
+                "read",
+                0.1408
+            ]
+        ],
+        "named_entities": [
+            [
+                "the summer\nmonths",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "the year",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "Dublin Airport",
+                "FAC",
+                "Buildings, airports, highways, bridges, etc."
+            ]
+        ],
+        "possible_tables_from_text": [],
+        "detected_visual_regions": [],
+        "segmented_regions": [
+            {
+                "x": 0,
+                "y": 1085,
+                "w": 476,
+                "h": 599,
+                "area": 4845,
+                "type": "Large Region"
+            }
+        ],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\a-short-guide_page_2_preprocessed.png",
+        "table_ocr_results": [],
+        "number_of_titles": 1,
+        "number_of_paragraphs": 2,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 0,
+        "number_of_possible_tables_from_text": 0,
+        "number_of_detected_table_regions": 0,
+        "number_of_segmented_regions": 1,
+        "number_of_table_ocr_results": 0,
+        "document_insight": "titles/headings identified"
+    },
+    {
+        "file_name": "a-short-guide_page_3.png",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\a-short-guide_page_3.png",
+        "main_title": "Contents",
+        "titles": [
+            "Contents",
+            "Finding Your Way Around",
+            "4. Security Screening",
+            "Your Boarding/Departure Gate",
+            "(4 Washrooms",
+            "Eating, Drinking, Shopping",
+            "3 We are here to help!",
+            "9, Reduced Mobility Assistance",
+            "Important Flyer Programme"
+        ],
+        "figure_references": [],
+        "table_references": [],
+        "ocr_text": "\u00a9Y DublinAirport\n\nContents\n\nFinding Your Way Around\nBB Arriving by Car, Taxi or Bus\nEB Checking In\n\n4. Security Screening\nYour Boarding/Departure Gate\n(4 Washrooms\n\nEating, Drinking, Shopping\n3 We are here to help!\n\n9, Reduced Mobility Assistance\nImportant Flyer Programme\n\n",
+        "cleaned_text": "dublinairport content finding way around bb arriving car taxi bus eb checking security screening boarding departure gate washroom eating drinking shopping help reduced mobility assistance important flyer programme",
+        "keywords": [
+            [
+                "bb",
+                0.2369
+            ],
+            [
+                "programme",
+                0.2369
+            ],
+            [
+                "eb",
+                0.2369
+            ],
+            [
+                "content",
+                0.2369
+            ],
+            [
+                "way",
+                0.2078
+            ],
+            [
+                "washroom",
+                0.2078
+            ],
+            [
+                "arriving",
+                0.2078
+            ],
+            [
+                "drinking",
+                0.2078
+            ],
+            [
+                "eating",
+                0.2078
+            ],
+            [
+                "flyer",
+                0.2078
+            ]
+        ],
+        "named_entities": [
+            [
+                "BB Arriving",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "4",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "4",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Drinking",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "3",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "9",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Flyer Programme",
+                "PERSON",
+                "People, including fictional"
+            ]
+        ],
+        "possible_tables_from_text": [],
+        "detected_visual_regions": [],
+        "segmented_regions": [
+            {
+                "x": 153,
+                "y": 242,
+                "w": 51,
+                "h": 51,
+                "area": 2128,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 153,
+                "y": 320,
+                "w": 51,
+                "h": 51,
+                "area": 2185,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 153,
+                "y": 397,
+                "w": 51,
+                "h": 52,
+                "area": 2172,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 153,
+                "y": 476,
+                "w": 51,
+                "h": 51,
+                "area": 2118,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 153,
+                "y": 555,
+                "w": 51,
+                "h": 52,
+                "area": 2141,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 153,
+                "y": 635,
+                "w": 51,
+                "h": 52,
+                "area": 2022,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 153,
+                "y": 713,
+                "w": 51,
+                "h": 51,
+                "area": 2250,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 153,
+                "y": 793,
+                "w": 51,
+                "h": 52,
+                "area": 1943,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 153,
+                "y": 866,
+                "w": 51,
+                "h": 51,
+                "area": 2016,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 153,
+                "y": 947,
+                "w": 51,
+                "h": 51,
+                "area": 1826,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 643,
+                "y": 1173,
+                "w": 548,
+                "h": 511,
+                "area": 11789,
+                "type": "Large Region"
+            }
+        ],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\a-short-guide_page_3_preprocessed.png",
+        "table_ocr_results": [],
+        "number_of_titles": 9,
+        "number_of_paragraphs": 3,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 0,
+        "number_of_possible_tables_from_text": 0,
+        "number_of_detected_table_regions": 0,
+        "number_of_segmented_regions": 11,
+        "number_of_table_ocr_results": 0,
+        "document_insight": "titles/headings identified; multiple segmented document regions found"
+    },
+    {
+        "file_name": "a-short-guide_page_4.png",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\a-short-guide_page_4.png",
+        "main_title": "Finding Your Way Around",
+        "titles": [
+            "Finding Your Way Around",
+            "\u2018Approx",
+            "ADELTA EL7VALINZ"
+        ],
+        "figure_references": [],
+        "table_references": [],
+        "ocr_text": "y DublinAirport A SHORT GUIDE\n\nFinding Your Way Around\n\nThe image below shows the proximity of our two terminals, Terminal 1 and Terminal 2.\nThe terminals are located within walking distance of each-other. Airlines flying from\nTerminal 2 are Aer Lingus, American Airlines, Delta, Emirates, El Al and United\nAirlines. All other airlines including Ryanair, fly from Terminal 1. Each terminal\nhas a check in area, security screening area, food and beverage and shopping\narea. There are six gate areas - Gates 101-121, Gates 201-224, Gates 301-307A,\nGates 332-335, Gates 336-337 and Gates 401-426. A small number of gates are\naccessed by bus (two minute journey) from Gate 335. Each departing flight leaves\nfrom a specific gate and that is where you board your flight.\n\n\u2018Approx\n\nTERMINAL 2 << 4Minutes > TERMINAL 1\n\nAerLingus #% American Airlines RYANAIR\nADELTA EL7VALINZ\n\u2019 and all non\nEmirates UNITED RY Terminal 2 airlines\n\nB Arriving by Car, Taxi or Bus\nTaxi ranks and public transport drop off and pick up points are within a short walking\ndistance of the terminals. For more information on the buses please visit\nwww.dublinairport.com/to-from-the-airport/by-bus. If you drive and park\nin a Dublin Airport Long Term Car Park, shuttle buses run from the car parks to\nthe airport 24 hours a day, seven days a week, at regular intervals. Please\nallow additional time in your journey for parking and shuttle bus transfer. If you use\na Short Term Car Park, you can walk to the terminals in approx. five minutes. If you\nexperience a problem with your car while in one of our car parks, there is 24 hour\nbreakdown assistance available at +353 19444828.\n\nAs our car parks are extremely busy during the summer, please pre-book your\nspace on dublinairport.com/car-parks. If you are using a car park for a short period\nfor drop off or pick up purposes, pre-booking is not necessary. An hourly rate applies,\npayable at paystations in the car parks. There are spaces designated for dis-\nabled parking permit holders in both Short Term and Long Term Car Parks.\nTo pre-book these spaces and avail of a preferential rate, please register online\nas a Reduced Mobility Driver at dublinairport.com/car-parks/reduced-mobility\nand proceed to booking using the code you will receive.\n\nFor queries regarding a car park booking, please check our Frequently Asked\nQuestions at dublinairport.com/car-parks/car-park-booking-faqs\n\n. Alternatively, please email parkingdublin@dublinairport.com\nor call +353 19440440 (office hours).\n\n02\n",
+        "cleaned_text": "dublinairport short guide finding way around image show proximity two terminal terminal terminal terminal located within walking distance airline flying terminal aer lingus american airline delta emirate el al united airline airline including ryanair fly terminal terminal check area security screening area food beverage shopping area six gate area gate 101 121 gate 201 224 gate 301 307a gate 332 335 gate 336 337 gate 401 426 small number gate accessed bus two minute journey gate 335 departing flight leaf specific gate board flight approx terminal 4minutes terminal aerlingus american airline ryanair adelta el7valinz non emirate united ry terminal airline arriving car taxi bus taxi rank public transport drop pick point within short walking distance terminal information bus please visit www dublinairport com airport bus drive park dublin airport long term car park shuttle bus run car park airport 24 hour day seven day week regular interval please allow additional time journey parking shuttle bus transfer use short term car park walk terminal approx five minute experience problem car one car park 24 hour breakdown assistance available 353 19444828 car park extremely busy summer please pre book space dublinairport com car park using car park short period drop pick purpose pre booking necessary hourly rate applies payable paystations car park space designated dis abled parking permit holder short term long term car park pre book space avail preferential rate please register online reduced mobility driver dublinairport com car park reduced mobility proceed booking using code receive query regarding car park booking please check frequently asked question dublinairport com car park car park booking faq alternatively please email parkingdublin dublinairport com call 353 19440440 office hour 02",
+        "keywords": [
+            [
+                "park",
+                0.4379
+            ],
+            [
+                "car",
+                0.429
+            ],
+            [
+                "terminal",
+                0.2756
+            ],
+            [
+                "gate",
+                0.2457
+            ],
+            [
+                "bus",
+                0.1877
+            ],
+            [
+                "airline",
+                0.1877
+            ],
+            [
+                "please",
+                0.1474
+            ],
+            [
+                "term",
+                0.1389
+            ],
+            [
+                "booking",
+                0.1251
+            ],
+            [
+                "hour",
+                0.1188
+            ]
+        ],
+        "named_entities": [
+            [
+                "two",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Terminal 1 and",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Terminal 2",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Aer Lingus",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "American Airlines",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Delta",
+                "GPE",
+                "Countries, cities, states"
+            ],
+            [
+                "Emirates",
+                "GPE",
+                "Countries, cities, states"
+            ],
+            [
+                "El Al",
+                "GPE",
+                "Countries, cities, states"
+            ],
+            [
+                "United\nAirlines",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Ryanair",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Terminal 1",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "six",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "101-121",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "201",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "301",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "332",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "336",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "401",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "two minute",
+                "TIME",
+                "Times smaller than a day"
+            ],
+            [
+                "Gate 335",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Approx",
+                "GPE",
+                "Countries, cities, states"
+            ],
+            [
+                "2",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "#%",
+                "PERCENT",
+                "Percentage, including \"%\""
+            ],
+            [
+                "American Airlines",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "2",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "a Dublin Airport Long Term Car Park",
+                "FAC",
+                "Buildings, airports, highways, bridges, etc."
+            ],
+            [
+                "24 hours",
+                "TIME",
+                "Times smaller than a day"
+            ],
+            [
+                "seven days",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "five minutes",
+                "TIME",
+                "Times smaller than a day"
+            ],
+            [
+                "one",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "24 hour",
+                "TIME",
+                "Times smaller than a day"
+            ],
+            [
+                "19444828",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "the summer",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "dublinairport.com/car-parks",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "hourly",
+                "TIME",
+                "Times smaller than a day"
+            ],
+            [
+                "Short Term",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "call +353 19440440",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "02",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ]
+        ],
+        "possible_tables_from_text": [],
+        "detected_visual_regions": [],
+        "segmented_regions": [
+            {
+                "x": 153,
+                "y": 164,
+                "w": 45,
+                "h": 46,
+                "area": 1812,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 215,
+                "y": 536,
+                "w": 855,
+                "h": 195,
+                "area": 16141,
+                "type": "Large Region"
+            },
+            {
+                "x": 291,
+                "y": 579,
+                "w": 168,
+                "h": 33,
+                "area": 2913,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 826,
+                "y": 580,
+                "w": 164,
+                "h": 32,
+                "area": 2804,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 248,
+                "y": 632,
+                "w": 115,
+                "h": 52,
+                "area": 1990,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 375,
+                "y": 637,
+                "w": 139,
+                "h": 46,
+                "area": 3070,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 844,
+                "y": 636,
+                "w": 117,
+                "h": 22,
+                "area": 1473,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 829,
+                "y": 673,
+                "w": 152,
+                "h": 42,
+                "area": 3039,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 377,
+                "y": 686,
+                "w": 115,
+                "h": 31,
+                "area": 1364,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 153,
+                "y": 788,
+                "w": 45,
+                "h": 46,
+                "area": 1701,
+                "type": "Text/Visual Region"
+            }
+        ],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\a-short-guide_page_4_preprocessed.png",
+        "table_ocr_results": [],
+        "number_of_titles": 3,
+        "number_of_paragraphs": 6,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 0,
+        "number_of_possible_tables_from_text": 0,
+        "number_of_detected_table_regions": 0,
+        "number_of_segmented_regions": 10,
+        "number_of_table_ocr_results": 0,
+        "document_insight": "titles/headings identified"
+    },
+    {
+        "file_name": "a-short-guide_page_5.png",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\a-short-guide_page_5.png",
+        "main_title": "3, Checking In",
+        "titles": [
+            "3, Checking In",
+            "CHECK IN AREA SCREENS",
+            "SELF",
+            "SERVICE",
+            "KIOSK (SSK)"
+        ],
+        "figure_references": [],
+        "table_references": [],
+        "ocr_text": "ASHORTGUIDE XY DublinAirport\n\n3, Checking In\n\nYou may have checked in online and have your boarding pass already -\neither stored on your mobile phone or printed on a page. If you have your boarding\npass, do not have a bag to check in and have not booked mobility assistance, you\ncan go directly to Security Screening. If you need to get or print your boarding\npass and/or are checking in a bag or if you require a visa check, you can do so\nat one of your airline's check in desks or Self Service Kiosks (SSKs). Each airline\nuses a specific area of the terminal to check in passengers. To find out where\nyour airline's check in desks are, look at the screens located around the\nterminal. The image below shows how the information is displayed.\n\nCHECK IN AREA SCREENS\n\nSome airlines also have a self-service bag drop facility. If you are unsure how to\nuse the SSK or need assistance at any stage, please ask an airline staff member;\nthey are working in the area and available to help. You will need your passport or\ntravel document to check in. When you are travelling to the US from Dublin Airport,\nthere are some additional steps in the check in process which your airline will man-\nage for you at their check in desks.\n\nSELF\n\nSERVICE\nKIOSK (SSK)\n\n03\n",
+        "cleaned_text": "ashortguide xy dublinairport checking may checked online boarding pas already either stored mobile phone printed page boarding pas bag check booked mobility assistance go directly security screening need get print boarding pas checking bag require visa check one airline check desk self service kiosk ssks airline us specific area terminal check passenger find airline check desk look screen located around terminal image show information displayed check area screen airline also self service bag drop facility unsure use ssk need assistance stage please ask airline staff member working area available help need passport travel document check travelling u dublin airport additional step check process airline man age check desk self service kiosk ssk 03",
+        "keywords": [
+            [
+                "check",
+                0.5769
+            ],
+            [
+                "airline",
+                0.3464
+            ],
+            [
+                "self",
+                0.2192
+            ],
+            [
+                "pas",
+                0.1923
+            ],
+            [
+                "bag",
+                0.1923
+            ],
+            [
+                "need",
+                0.1584
+            ],
+            [
+                "desk",
+                0.1584
+            ],
+            [
+                "service",
+                0.1584
+            ],
+            [
+                "boarding",
+                0.1463
+            ],
+            [
+                "kiosk",
+                0.1461
+            ]
+        ],
+        "named_entities": [
+            [
+                "3",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Security Screening",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "one",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "SSK",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "US",
+                "GPE",
+                "Countries, cities, states"
+            ],
+            [
+                "Dublin Airport",
+                "FAC",
+                "Buildings, airports, highways, bridges, etc."
+            ],
+            [
+                "SSK",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "03",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ]
+        ],
+        "possible_tables_from_text": [],
+        "detected_visual_regions": [],
+        "segmented_regions": [
+            {
+                "x": 153,
+                "y": 164,
+                "w": 45,
+                "h": 46,
+                "area": 1721,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 209,
+                "y": 524,
+                "w": 849,
+                "h": 399,
+                "area": 131597,
+                "type": "Large Region"
+            },
+            {
+                "x": 212,
+                "y": 1209,
+                "w": 173,
+                "h": 47,
+                "area": 2117,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 389,
+                "y": 1209,
+                "w": 114,
+                "h": 56,
+                "area": 1862,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 329,
+                "y": 1243,
+                "w": 47,
+                "h": 74,
+                "area": 1112,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 390,
+                "y": 1253,
+                "w": 135,
+                "h": 80,
+                "area": 1951,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 212,
+                "y": 1263,
+                "w": 99,
+                "h": 201,
+                "area": 2337,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 236,
+                "y": 1323,
+                "w": 152,
+                "h": 128,
+                "area": 2206,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 212,
+                "y": 1331,
+                "w": 313,
+                "h": 184,
+                "area": 7416,
+                "type": "Large Region"
+            }
+        ],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\a-short-guide_page_5_preprocessed.png",
+        "table_ocr_results": [],
+        "number_of_titles": 5,
+        "number_of_paragraphs": 2,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 0,
+        "number_of_possible_tables_from_text": 0,
+        "number_of_detected_table_regions": 0,
+        "number_of_segmented_regions": 9,
+        "number_of_table_ocr_results": 0,
+        "document_insight": "titles/headings identified"
+    },
+    {
+        "file_name": "a-short-guide_page_6.png",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\a-short-guide_page_6.png",
+        "main_title": "Security Screening",
+        "titles": [
+            "Security Screening",
+            "New Rules For Smoother Travel"
+        ],
+        "figure_references": [],
+        "table_references": [],
+        "ocr_text": "XY DublinAirport A SHORT GUIDE\n\nSecurity Screening\n\nOnce you have your boarding pass and have checked in any bags, you can proceed\nto Security Screening. If you have booked or require mobility assistance, please\ngo to the OCS Desk before you go through Security Screening. To enter the screen-\ning area, you will need your boarding pass. There is an Assistance Lane for anyone\nwho would like a little more time or help through the security screening process.\nFor helpful tips on how to prepare for Security Screening, please go to\nwww.dublinairport.com/at-the-airport\n\nNew Rules For Smoother Travel\n\nWhat\u2019s changed?\n\nv Liquids, gels and electronics can stay in your carry-on baggage when going through security.\nv_ There is no limit on the number of liquids and gels that can be carried in your carry-on baggage.\n\nv_ The previous 100m! maximum limit on liquids and gels no longer applies, and items in containers up to 2 litres\ncan be brought through security.\n\nv Liquids and gels no longer need to be packed inside clear plastic bags\n\nWhat's staying the same?\n\nv_ Items such as belts, footwear which extends over the ankle, jackets, hoodies, oversized jumpers and cardigans\nmust be removed and placed in the security tray.\n\nv_ Passengers must continue to remove all items from their pockets, including keys, wallets and phones.\nvy Keep your passport packed in your baggage \u2014 it won't be checked during your screening\nv_ Sharp objects over 6cm aren't allowed in your carry-on baggage.\n\nvy Pushchairs, wheelchairs and walking aids are welcome. Just ask a Security Officer if you need a hand.\n",
+        "cleaned_text": "xy dublinairport short guide security screening boarding pas checked bag proceed security screening booked require mobility assistance please go ocs desk go security screening enter screen ing area need boarding pas assistance lane anyone would like little time help security screening process helpful tip prepare security screening please go www dublinairport com airport new rule smoother travel changed liquid gel electronics stay carry baggage going security limit number liquid gel carried carry baggage previous 100m maximum limit liquid gel longer applies item container litre brought security liquid gel longer need packed inside clear plastic bag staying item belt footwear extends ankle jacket hoodies oversized jumper cardigan must removed placed security tray passenger must continue remove item pocket including key wallet phone vy keep passport packed baggage checked screening sharp object 6cm allowed carry baggage vy pushchair wheelchair walking aid welcome ask security officer need hand",
+        "keywords": [
+            [
+                "security",
+                0.3227
+            ],
+            [
+                "gel",
+                0.2798
+            ],
+            [
+                "baggage",
+                0.2798
+            ],
+            [
+                "liquid",
+                0.2798
+            ],
+            [
+                "screening",
+                0.2285
+            ],
+            [
+                "carry",
+                0.2098
+            ],
+            [
+                "item",
+                0.1841
+            ],
+            [
+                "go",
+                0.1516
+            ],
+            [
+                "need",
+                0.1516
+            ],
+            [
+                "longer",
+                0.1399
+            ]
+        ],
+        "named_entities": [
+            [
+                "Security Screening",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Security Screening",
+                "FAC",
+                "Buildings, airports, highways, bridges, etc."
+            ],
+            [
+                "Assistance Lane",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "Security Screening",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "100",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "2",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Keep",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Sharp",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "6cm",
+                "QUANTITY",
+                "Measurements, as of weight or distance"
+            ],
+            [
+                "Pushchairs",
+                "NORP",
+                "Nationalities or religious or political groups"
+            ]
+        ],
+        "possible_tables_from_text": [],
+        "detected_visual_regions": [],
+        "segmented_regions": [],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\a-short-guide_page_6_preprocessed.png",
+        "table_ocr_results": [],
+        "number_of_titles": 2,
+        "number_of_paragraphs": 7,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 0,
+        "number_of_possible_tables_from_text": 0,
+        "number_of_detected_table_regions": 0,
+        "number_of_segmented_regions": 0,
+        "number_of_table_ocr_results": 0,
+        "document_insight": "titles/headings identified"
+    },
+    {
+        "file_name": "a-short-guide_page_7.png",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\a-short-guide_page_7.png",
+        "main_title": "B Your Boarding/Departure Gate",
+        "titles": [
+            "B Your Boarding/Departure Gate",
+            "FLIGHT INFORMATION SCREENS"
+        ],
+        "figure_references": [],
+        "table_references": [],
+        "ocr_text": "ASHORTGUIDE XY DublinAirport\n\nB Your Boarding/Departure Gate\nOnce you are through Security Screening, you will be able to find your boarding/\ndeparture gate number and the estimated walking time to your gate on one of\nthe Flight Information Screens that are located all along the journey.\n\nThe images below show what the screens look like and where to find your gate\nnumber. Gate numbers are displayed on these screens before departure time,\non dublinairport.com and the Dublin Airport app. There are travelators to help\nreduce the amount of walking for passengers departing from Gates 100 - 121 and\nGates 401 - 426. (See map of terminals on last page for approx. walk times to\ngates and Section 8 for mobility supports). All gates have a seating area for\nPassengers awaiting boarding.\n\nFLIGHT INFORMATION SCREENS\n\nos\n",
+        "cleaned_text": "ashortguide xy dublinairport boarding departure gate security screening able find boarding departure gate number estimated walking time gate one flight information screen located along journey image show screen look like find gate number gate number displayed screen departure time dublinairport com dublin airport app travelators help reduce amount walking passenger departing gate 100 121 gate 401 426 see map terminal last page approx walk time gate section mobility support gate seating area passenger awaiting boarding flight information screen o",
+        "keywords": [
+            [
+                "gate",
+                0.5814
+            ],
+            [
+                "screen",
+                0.329
+            ],
+            [
+                "departure",
+                0.2256
+            ],
+            [
+                "number",
+                0.2256
+            ],
+            [
+                "boarding",
+                0.2084
+            ],
+            [
+                "time",
+                0.1601
+            ],
+            [
+                "find",
+                0.1504
+            ],
+            [
+                "flight",
+                0.1504
+            ],
+            [
+                "walking",
+                0.1504
+            ],
+            [
+                "passenger",
+                0.1389
+            ]
+        ],
+        "named_entities": [
+            [
+                "B Your Boarding/Departure Gate\n",
+                "WORK_OF_ART",
+                "Titles of books, songs, etc."
+            ],
+            [
+                "Security Screening",
+                "FAC",
+                "Buildings, airports, highways, bridges, etc."
+            ],
+            [
+                "one",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "the Flight Information Screens",
+                "WORK_OF_ART",
+                "Titles of books, songs, etc."
+            ],
+            [
+                "the Dublin Airport",
+                "FAC",
+                "Buildings, airports, highways, bridges, etc."
+            ],
+            [
+                "Gates",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "100",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "401",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Section 8",
+                "LAW",
+                "Named documents made into laws."
+            ]
+        ],
+        "possible_tables_from_text": [],
+        "detected_visual_regions": [],
+        "segmented_regions": [
+            {
+                "x": 62,
+                "y": 164,
+                "w": 46,
+                "h": 46,
+                "area": 1752,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 123,
+                "y": 593,
+                "w": 708,
+                "h": 512,
+                "area": 124956,
+                "type": "Large Region"
+            },
+            {
+                "x": 795,
+                "y": 593,
+                "w": 182,
+                "h": 142,
+                "area": 1755,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 138,
+                "y": 624,
+                "w": 173,
+                "h": 45,
+                "area": 1004,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 402,
+                "y": 701,
+                "w": 176,
+                "h": 46,
+                "area": 1274,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 402,
+                "y": 714,
+                "w": 177,
+                "h": 57,
+                "area": 2580,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 401,
+                "y": 739,
+                "w": 182,
+                "h": 118,
+                "area": 9715,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 402,
+                "y": 831,
+                "w": 181,
+                "h": 38,
+                "area": 1373,
+                "type": "Text/Visual Region"
+            }
+        ],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\a-short-guide_page_7_preprocessed.png",
+        "table_ocr_results": [],
+        "number_of_titles": 2,
+        "number_of_paragraphs": 2,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 0,
+        "number_of_possible_tables_from_text": 0,
+        "number_of_detected_table_regions": 0,
+        "number_of_segmented_regions": 8,
+        "number_of_table_ocr_results": 0,
+        "document_insight": "titles/headings identified"
+    },
+    {
+        "file_name": "a-short-guide_page_8.png",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\a-short-guide_page_8.png",
+        "main_title": "6. Washrooms",
+        "titles": [
+            "6. Washrooms",
+            "Eating, Drinking, Shopping"
+        ],
+        "figure_references": [],
+        "table_references": [],
+        "ocr_text": "XY Dublin Airport A SHORT GUIDE\n\n6. Washrooms\nThere are washrooms located at points along your departure journey and in the\ngate areas. There are accessible washrooms at each washroom block. Accessible\nwashrooms are fitted with assistance cords.\n\nEating, Drinking, Shopping\n\nThere are cafes, restaurants and shops located in the area after Security Screening\nand some more limited offers in the gate areas. We hope that you have time to relax\nand enjoy sometime here before your flight. You will find great value and super service\nwhen you shop in duty free and if you are flying within the EU, you can avail of our\nShop & Collect service; buy in-store, leave with us and collect on your return.\nAlternatively, with our Click & Collect service you can buy online from the comfort\nof home and arrange to pick up your purchases when you are flying out. For more\ninformation, visit Dublin Duty Free online.\n\nIf you would prefer to spend your time away from the main airport areas, there are\na number of airport lounges to choose from. Relax and enjoy a drink or snack\nbefore going to your gate. Lounges can be pre-booked or will accept passengers\nwithout a booking subject to availability. For more information, go to\ndublinairport.com/enhance-your-journey/lounges\n\no6\n",
+        "cleaned_text": "xy dublin airport short guide washroom washroom located point along departure journey gate area accessible washroom washroom block accessible washroom fitted assistance cord eating drinking shopping cafe restaurant shop located area security screening limited offer gate area hope time relax enjoy sometime flight find great value super service shop duty free flying within eu avail shop collect service buy store leave u collect return alternatively click collect service buy online comfort home arrange pick purchase flying information visit dublin duty free online would prefer spend time away main airport area number airport lounge choose relax enjoy drink snack going gate lounge pre booked accept passenger without booking subject availability information go dublinairport com enhance journey lounge o6",
+        "keywords": [
+            [
+                "washroom",
+                0.3641
+            ],
+            [
+                "collect",
+                0.249
+            ],
+            [
+                "lounge",
+                0.249
+            ],
+            [
+                "shop",
+                0.249
+            ],
+            [
+                "area",
+                0.1927
+            ],
+            [
+                "service",
+                0.1799
+            ],
+            [
+                "enjoy",
+                0.166
+            ],
+            [
+                "relax",
+                0.166
+            ],
+            [
+                "duty",
+                0.166
+            ],
+            [
+                "buy",
+                0.166
+            ]
+        ],
+        "named_entities": [
+            [
+                "XY Dublin Airport",
+                "FAC",
+                "Buildings, airports, highways, bridges, etc."
+            ],
+            [
+                "6",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Eating",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "Drinking",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "Security Screening",
+                "FAC",
+                "Buildings, airports, highways, bridges, etc."
+            ],
+            [
+                "EU",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Shop & Collect",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Click & Collect",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Dublin Duty Free",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ]
+        ],
+        "possible_tables_from_text": [],
+        "detected_visual_regions": [],
+        "segmented_regions": [
+            {
+                "x": 153,
+                "y": 164,
+                "w": 45,
+                "h": 46,
+                "area": 1615,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 153,
+                "y": 360,
+                "w": 45,
+                "h": 45,
+                "area": 1715,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 211,
+                "y": 933,
+                "w": 693,
+                "h": 155,
+                "area": 14011,
+                "type": "Large Region"
+            },
+            {
+                "x": 908,
+                "y": 933,
+                "w": 69,
+                "h": 94,
+                "area": 1843,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 959,
+                "y": 933,
+                "w": 108,
+                "h": 105,
+                "area": 2587,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 643,
+                "y": 941,
+                "w": 95,
+                "h": 167,
+                "area": 4016,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 211,
+                "y": 979,
+                "w": 856,
+                "h": 464,
+                "area": 30784,
+                "type": "Large Region"
+            },
+            {
+                "x": 255,
+                "y": 978,
+                "w": 56,
+                "h": 220,
+                "area": 2904,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 598,
+                "y": 985,
+                "w": 48,
+                "h": 80,
+                "area": 1532,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 391,
+                "y": 998,
+                "w": 125,
+                "h": 216,
+                "area": 4331,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 304,
+                "y": 1009,
+                "w": 78,
+                "h": 69,
+                "area": 1667,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 981,
+                "y": 1039,
+                "w": 70,
+                "h": 92,
+                "area": 1397,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 918,
+                "y": 1043,
+                "w": 69,
+                "h": 81,
+                "area": 1222,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 345,
+                "y": 1048,
+                "w": 80,
+                "h": 68,
+                "area": 1081,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 331,
+                "y": 1112,
+                "w": 40,
+                "h": 160,
+                "area": 1505,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 470,
+                "y": 1116,
+                "w": 99,
+                "h": 74,
+                "area": 1118,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 687,
+                "y": 1150,
+                "w": 153,
+                "h": 110,
+                "area": 3069,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 796,
+                "y": 1153,
+                "w": 89,
+                "h": 60,
+                "area": 1209,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 436,
+                "y": 1169,
+                "w": 155,
+                "h": 58,
+                "area": 1162,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 366,
+                "y": 1208,
+                "w": 470,
+                "h": 124,
+                "area": 5122,
+                "type": "Large Region"
+            },
+            {
+                "x": 869,
+                "y": 1215,
+                "w": 98,
+                "h": 126,
+                "area": 1400,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 777,
+                "y": 1238,
+                "w": 81,
+                "h": 87,
+                "area": 1001,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 530,
+                "y": 1273,
+                "w": 107,
+                "h": 155,
+                "area": 3866,
+                "type": "Text/Visual Region"
+            }
+        ],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\a-short-guide_page_8_preprocessed.png",
+        "table_ocr_results": [],
+        "number_of_titles": 2,
+        "number_of_paragraphs": 3,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 0,
+        "number_of_possible_tables_from_text": 0,
+        "number_of_detected_table_regions": 0,
+        "number_of_segmented_regions": 23,
+        "number_of_table_ocr_results": 0,
+        "document_insight": "titles/headings identified; multiple segmented document regions found"
+    },
+    {
+        "file_name": "a-short-guide_page_9.png",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\a-short-guide_page_9.png",
+        "main_title": "8. We Are Here To Help",
+        "titles": [
+            "8. We Are Here To Help"
+        ],
+        "figure_references": [],
+        "table_references": [],
+        "ocr_text": "ASHORT GUIDE y DublinAirport\n\n8. We Are Here To Help\n\nWe have a great team at the airport. We have dedicated Customer Service team\nmembers who are very happy to help you along your journey. You'll spot them in\ntheir bright pink high visibility jackets, just like our colleague in this image. If\nyou don't see one of this team, please feel free to stop anyone with an airport\n\nlanyard/badge, a uniform or high visibility vest if you need to ask a question or\nneed assistance.\n\n@\u00ae\n\nTo speak to someone about your experience in Dublin Airport, please call our\nCustomer Experience team at +353 1944 4717 (Mon to Fri, 09:00 to 13:00).\n\n07\n",
+        "cleaned_text": "ashort guide dublinairport help great team airport dedicated customer service team member happy help along journey spot bright pink high visibility jacket like colleague image see one team please feel free stop anyone airport lanyard badge uniform high visibility vest need ask question need assistance speak someone experience dublin airport please call customer experience team 353 1944 4717 mon fri 09 00 13 00 07",
+        "keywords": [
+            [
+                "team",
+                0.4768
+            ],
+            [
+                "visibility",
+                0.2384
+            ],
+            [
+                "experience",
+                0.2091
+            ],
+            [
+                "customer",
+                0.1884
+            ],
+            [
+                "high",
+                0.1884
+            ],
+            [
+                "00",
+                0.1884
+            ],
+            [
+                "airport",
+                0.173
+            ],
+            [
+                "need",
+                0.1723
+            ],
+            [
+                "please",
+                0.148
+            ],
+            [
+                "help",
+                0.148
+            ]
+        ],
+        "named_entities": [
+            [
+                "DublinAirport",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "8",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Customer Service",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "one",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Dublin Airport",
+                "FAC",
+                "Buildings, airports, highways, bridges, etc."
+            ],
+            [
+                "1944 4717",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "07",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ]
+        ],
+        "possible_tables_from_text": [],
+        "detected_visual_regions": [],
+        "segmented_regions": [
+            {
+                "x": 153,
+                "y": 164,
+                "w": 45,
+                "h": 46,
+                "area": 1560,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 212,
+                "y": 386,
+                "w": 858,
+                "h": 329,
+                "area": 14348,
+                "type": "Large Region"
+            },
+            {
+                "x": 661,
+                "y": 496,
+                "w": 84,
+                "h": 212,
+                "area": 3134,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 713,
+                "y": 532,
+                "w": 33,
+                "h": 156,
+                "area": 1202,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 454,
+                "y": 540,
+                "w": 76,
+                "h": 136,
+                "area": 1874,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 212,
+                "y": 542,
+                "w": 264,
+                "h": 50,
+                "area": 4628,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 508,
+                "y": 564,
+                "w": 280,
+                "h": 485,
+                "area": 15479,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 391,
+                "y": 593,
+                "w": 151,
+                "h": 386,
+                "area": 6485,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 764,
+                "y": 617,
+                "w": 81,
+                "h": 91,
+                "area": 2112,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 212,
+                "y": 681,
+                "w": 177,
+                "h": 41,
+                "area": 3089,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 654,
+                "y": 702,
+                "w": 128,
+                "h": 81,
+                "area": 1316,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 212,
+                "y": 719,
+                "w": 172,
+                "h": 330,
+                "area": 8934,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 349,
+                "y": 724,
+                "w": 95,
+                "h": 123,
+                "area": 1581,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 400,
+                "y": 778,
+                "w": 64,
+                "h": 169,
+                "area": 1256,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 475,
+                "y": 812,
+                "w": 114,
+                "h": 54,
+                "area": 1175,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 779,
+                "y": 818,
+                "w": 265,
+                "h": 13,
+                "area": 1526,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 778,
+                "y": 832,
+                "w": 266,
+                "h": 65,
+                "area": 1237,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 377,
+                "y": 875,
+                "w": 148,
+                "h": 174,
+                "area": 3603,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 678,
+                "y": 943,
+                "w": 84,
+                "h": 106,
+                "area": 1608,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 762,
+                "y": 963,
+                "w": 282,
+                "h": 10,
+                "area": 1166,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 765,
+                "y": 975,
+                "w": 279,
+                "h": 74,
+                "area": 4438,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 276,
+                "y": 1174,
+                "w": 44,
+                "h": 49,
+                "area": 1500,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 223,
+                "y": 1193,
+                "w": 53,
+                "h": 56,
+                "area": 1296,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 215,
+                "y": 1382,
+                "w": 829,
+                "h": 3,
+                "area": 2485,
+                "type": "Possible Heading/Table Line"
+            }
+        ],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\a-short-guide_page_9_preprocessed.png",
+        "table_ocr_results": [],
+        "number_of_titles": 1,
+        "number_of_paragraphs": 3,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 0,
+        "number_of_possible_tables_from_text": 0,
+        "number_of_detected_table_regions": 0,
+        "number_of_segmented_regions": 24,
+        "number_of_table_ocr_results": 0,
+        "document_insight": "titles/headings identified; multiple segmented document regions found"
+    },
+    {
+        "file_name": "agentic rag1_page_1.png",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\agentic rag1_page_1.png",
+        "main_title": "AGENTIC RETRIEVAL-AUGMENTED GENERATION: A SURVEY ON",
+        "titles": [
+            "AGENTIC RETRIEVAL-AUGMENTED GENERATION: A SURVEY ON",
+            "AGENTIC RAG",
+            "Aditi Singh Abul Ehtesham Saket Kumar",
+            "Tala Talaei Khoei Athanasios V. Vasilakos",
+            "ABSTRACT"
+        ],
+        "figure_references": [],
+        "table_references": [],
+        "ocr_text": "arXiv:2501.09136v4 [cs.AI] 1 Apr 2026\n\nAGENTIC RETRIEVAL-AUGMENTED GENERATION: A SURVEY ON\nAGENTIC RAG\n\nAditi Singh Abul Ehtesham Saket Kumar\nDepartment of Computer Science Kent State University Khoury College of Computer Science\nCleveland State University Kent, OH, USA Northeastern University\nCleveland, OH, USA aehtesha@kent .edu Boston, MA, USA.\na.singh22@csuohio.edu kumar .sak@northeastern.edu\nTala Talaei Khoei Athanasios V. Vasilakos\nKhoury College of Computer Science Center for AI Research\nRoux Institute at Northeastern University University of Agder (UiA)\nPortland, ME, USA Jon Lilletuns vei 9, 4879 Grimstad, Norway\nt.talaeikhoei@northeastern.edu th. vasilakos@gmail.com\nABSTRACT\n\nLarge Language Models (LLMs) have significantly advanced artificial intelligence by enabling human-\nlike text generation and natural language understanding. However, their reliance on static training\ndata limits their ability to respond to dynamic, real-time queries, resulting in outdated or inaccurate\noutputs. Retrieval-Augmented Generation (RAG) has emerged as a solution, enhancing LLMs by\nintegrating real-time data retrieval to provide contextually relevant and up-to-date responses. Di\nits promise, traditional RAG systems are constrained by static workflows and lack the adaptability\nrequired for multi-step reasoning and complex task management. Agentic Retrieval-Augmented\nGeneration (Agentic RAG) transcends these limitations by embedding autonomous AI agents into\nthe RAG pipeline. These agents leverage agentic design patterns reflection, planning, tool use, and\nmulti-agent collaboration to dynamically manage retrieval strategies, iteratively refine contextual\nunderstanding, and adapt workflows through clearly defined operational structures ranging from\nsequential steps to adaptive collaboration. This integration enables Agentic RAG lems to deliver\nunparalleled flexibility, scalability, and context-awareness across diverse applications. This paper\npresents an analytical survey of Agentic RAG! systems. It traces the evolution of RAG paradigms,\nintroduces a principled taxonomy of Agentic RAG architectures based on agent cardinality, control\nstructure, autonomy, and knowledge representation, and provides a comparative analys i\ntrade-offs across existing frameworks. The survey further examines real-world application\ndomains including healthcare, finance, education, and enterprise document processing, and di\npractical lessons learned for system designers and practitioners. Finally, it identifies key open research\nchallenges related to evaluation, coordination, memory management, efficiency, and governance,\noutlining directions for future research.\n\nKeywords Large Language Models (LLMs) - Artificial Intelligence (AI) - Natural Language Understanding -\nRetrieval-Augmented Generation (RAG) - Agentic RAG - Autonomous AI Agents - Reflection - Planning - Tool\nUse - Multi-Agent Collaboration - Agentic Patterns - Contextual Understanding - Dynamic Adaptability - Scalability\nReal-Time Data Retrieval - Taxonomy of Agentic RAG - Healthcare Applications - Finance Applications - Educational\nApplications - Ethical AI Decision-Making - Performance Optimization - Multi-Step Reasoning\n\n'GitHlub link: https://github.com/asinghcsu/AgenticRAG-Survey\n",
+        "cleaned_text": "arxiv 2501 09136v4 c ai apr 2026 agentic retrieval augmented generation survey agentic rag aditi singh abul ehtesham saket kumar department computer science kent state university khoury college computer science cleveland state university kent oh usa northeastern university cleveland oh usa aehtesha kent edu boston usa singh22 csuohio edu kumar sak northeastern edu tala talaei khoei athanasios vasilakos khoury college computer science center ai research roux institute northeastern university university agder uia portland usa jon lilletuns vei 4879 grimstad norway talaeikhoei northeastern edu th vasilakos gmail com abstract large language model llm significantly advanced artificial intelligence enabling human like text generation natural language understanding however reliance static training data limit ability respond dynamic real time query resulting outdated inaccurate output retrieval augmented generation rag emerged solution enhancing llm integrating real time data retrieval provide contextually relevant date response di promise traditional rag system constrained static workflow lack adaptability required multi step reasoning complex task management agentic retrieval augmented generation agentic rag transcends limitation embedding autonomous ai agent rag pipeline agent leverage agentic design pattern reflection planning tool use multi agent collaboration dynamically manage retrieval strategy iteratively refine contextual understanding adapt workflow clearly defined operational structure ranging sequential step adaptive collaboration integration enables agentic rag lem deliver unparalleled flexibility scalability context awareness across diverse application paper present analytical survey agentic rag system trace evolution rag paradigm introduces principled taxonomy agentic rag architecture based agent cardinality control structure autonomy knowledge representation provides comparative analys trade offs across existing framework survey examines real world application domain including healthcare finance education enterprise document processing di practical lesson learned system designer practitioner finally identifies key open research challenge related evaluation coordination memory management efficiency governance outlining direction future research keywords large language model llm artificial intelligence ai natural language understanding retrieval augmented generation rag agentic rag autonomous ai agent reflection planning tool use multi agent collaboration agentic pattern contextual understanding dynamic adaptability scalability real time data retrieval taxonomy agentic rag healthcare application finance application educational application ethical ai decision making performance optimization multi step reasoning githlub link http github com asinghcsu agenticrag survey",
+        "keywords": [
+            [
+                "rag",
+                0.3481
+            ],
+            [
+                "agentic",
+                0.3191
+            ],
+            [
+                "retrieval",
+                0.203
+            ],
+            [
+                "ai",
+                0.1932
+            ],
+            [
+                "university",
+                0.1835
+            ],
+            [
+                "agent",
+                0.174
+            ],
+            [
+                "survey",
+                0.1468
+            ],
+            [
+                "usa",
+                0.1468
+            ],
+            [
+                "language",
+                0.1468
+            ],
+            [
+                "northeastern",
+                0.1468
+            ]
+        ],
+        "named_entities": [
+            [
+                "Department of Computer Science Kent State University Khoury College of Computer Science\n",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Cleveland State University",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "OH",
+                "GPE",
+                "Countries, cities, states"
+            ],
+            [
+                "USA Northeastern University",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Cleveland",
+                "GPE",
+                "Countries, cities, states"
+            ],
+            [
+                "OH",
+                "GPE",
+                "Countries, cities, states"
+            ],
+            [
+                "USA",
+                "GPE",
+                "Countries, cities, states"
+            ],
+            [
+                "Boston",
+                "GPE",
+                "Countries, cities, states"
+            ],
+            [
+                "MA",
+                "GPE",
+                "Countries, cities, states"
+            ],
+            [
+                "USA",
+                "GPE",
+                "Countries, cities, states"
+            ],
+            [
+                "a.singh22@csuohio.edu",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Tala Talaei Khoei Athanasios",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "V. Vasilakos",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "Northeastern University University of Agder",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "UiA",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Portland",
+                "GPE",
+                "Countries, cities, states"
+            ],
+            [
+                "9",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "4879",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "Norway",
+                "GPE",
+                "Countries, cities, states"
+            ],
+            [
+                "Retrieval-Augmented Generation (RAG",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "RAG",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Agentic Retrieval-Augmented\n",
+                "FAC",
+                "Buildings, airports, highways, bridges, etc."
+            ],
+            [
+                "AI",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "RAG",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "Agentic RAG",
+                "PRODUCT",
+                "Objects, vehicles, foods, etc. (not services)"
+            ],
+            [
+                "Agentic RAG",
+                "PRODUCT",
+                "Objects, vehicles, foods, etc. (not services)"
+            ],
+            [
+                "RAG",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "Agentic RAG",
+                "PRODUCT",
+                "Objects, vehicles, foods, etc. (not services)"
+            ],
+            [
+                "Collaboration - Agentic Patterns - Contextual",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ]
+        ],
+        "possible_tables_from_text": [],
+        "detected_visual_regions": [],
+        "segmented_regions": [
+            {
+                "x": 127,
+                "y": 158,
+                "w": 937,
+                "h": 5,
+                "area": 4683,
+                "type": "Possible Heading/Table Line"
+            },
+            {
+                "x": 127,
+                "y": 292,
+                "w": 937,
+                "h": 5,
+                "area": 4683,
+                "type": "Possible Heading/Table Line"
+            }
+        ],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\agentic rag1_page_1_preprocessed.png",
+        "table_ocr_results": [],
+        "number_of_titles": 5,
+        "number_of_paragraphs": 4,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 0,
+        "number_of_possible_tables_from_text": 0,
+        "number_of_detected_table_regions": 0,
+        "number_of_segmented_regions": 2,
+        "number_of_table_ocr_results": 0,
+        "document_insight": "titles/headings identified"
+    },
+    {
+        "file_name": "agentic rag29_page_1.png",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\agentic rag29_page_1.png",
+        "main_title": "6 Comparative Analysis of Agentic RAG Frameworks",
+        "titles": [
+            "6 Comparative Analysis of Agentic RAG Frameworks",
+            "7 Applications of Agentic RAG",
+            "7.1 Customer Support and Virtual Assistants",
+            "Use Case: Twitch Ad Sales Enhancement [39]"
+        ],
+        "figure_references": [],
+        "table_references": [
+            "Table 2 provides a comprehensive comparative analysis of the three architectural frameworks: Traditional RAG, Agentic",
+            "Table 2: Comparative Analysis: Traditional RAG vs Agentic RAG vs Agentic Document Workflows (ADW)"
+        ],
+        "ocr_text": "6 Comparative Analysis of Agentic RAG Frameworks\n\nTable 2 provides a comprehensive comparative analysis of the three architectural frameworks: Traditional RAG, Agentic\nRAG, and Agentic Document Workflows (ADW). This analysis highlights their respective strengths, weaknesses, and\nbest-fit scenarios, offering valuable insights into their applicability across diverse use cases.\n\nTable 2: Comparative Analysis: Traditional RAG vs Agentic RAG vs Agentic Document Workflows (ADW)\n\nFeature Traditional RAG Agentic RAG Agentic Document\nWorkflows (ADW)\nFocus Isolated retrieval and Multi-agent Document-centric\ngeneration tasks collaboration and end-to-end workflows\nreasoning\nContext Maintenance Limited Enabled through Maintains state across\nmemory modules multi-step workflows\nDynamic Adaptability Minimal High Tailored to document\nworkflows\nWorkflow Absent Orchestrates multi-agent Integrates multi-step\nOrchestration tasks document processing\nUse of External Basic integration (e.g., Extends via tools like Deeply integrates business\nTools/APIs retrieval tools) APIs and knowledge rules and domain-specific\nbases tools\nScalability Limited to small Scalable for multi-agent Scales for multi-domain\ndatasets or queries systems enterprise workflows\nComplex Reasoning Basic (e.g., simple Multi-step reasoning Structured reasoning across\nQ&A) with agents documents\nPrimary Applications | QA systems, knowledge Multi-domain Contract review, invoice\nretrieval knowledge and processing, claims analysis\nreasoning\nStrengths Simplicity, quick setup High accuracy, End-to-end automation,\ncollaborative reasoning | domain-specific intelligence\nChallenges Poor contextual Coordination Resource overhead, domain\nunderstanding complexity standardization\n\nThe comparative analysis underscores the evolutionary trajectory from Traditional RAG to Agentic RAG and further to\nAgentic Document Workflows (ADW). While Traditional RAG offers simplicity and ease of deployment for basic tasks,\nAgentic RAG introduces enhanced reasoning and scalability through multi-agent collaboration. ADW builds upon these\nadvancements by providing robust, document-centric workflows that facilitate end-to-end automation and integration\nwith domain-specific processes. Understanding the strengths and limitations of each framework is crucial for selecting\nthe most appropriate architecture to meet specific application requirements and operational demands.\n\n7 Applications of Agentic RAG\n\nAgentic Retrieval-Augmented Generation (RAG) systems have demonstrated transformative potential across a variety\nof domains. By combining real-time data retrieval, generative capabilities, and autonomous decision-making, these\nsystems address complex, dynamic, and multi-modal challenges. This section explores the key applications of Agentic\nRAG, providing detailed insights into how these systems are shaping industries such as customer support, healthcare,\nfinance, education, legal workflows, and creative industries.\n\n7.1 Customer Support and Virtual Assistants\n\nAgentic RAG systems are revolutionizing customer support by enabling real-time, context-aware query resolution.\nTraditional chatbots and virtual assistants often rely on static knowledge bases, leading to generic or outdated responses.\nBy contrast, Agentic RAG systems dynamically retrieve the most relevant information, adapt to the user\u2019s context, and\ngenerate personalized responses.\n\nUse Case: Twitch Ad Sales Enhancement [39]\n\nFor instance, Twitch leveraged an agentic workflow with RAG on Amazon Bedrock to streamline ad sales. The system\n\n29\n",
+        "cleaned_text": "comparative analysis agentic rag framework table provides comprehensive comparative analysis three architectural framework traditional rag agentic rag agentic document workflow adw analysis highlight respective strength weakness best fit scenario offering valuable insight applicability across diverse use case table comparative analysis traditional rag v agentic rag v agentic document workflow adw feature traditional rag agentic rag agentic document workflow adw focus isolated retrieval multi agent document centric generation task collaboration end end workflow reasoning context maintenance limited enabled maintains state across memory module multi step workflow dynamic adaptability minimal high tailored document workflow workflow absent orchestrates multi agent integrates multi step orchestration task document processing use external basic integration extends via tool like deeply integrates business tool apis retrieval tool apis knowledge rule domain specific base tool scalability limited small scalable multi agent scale multi domain datasets query system enterprise workflow complex reasoning basic simple multi step reasoning structured reasoning across agent document primary application qa system knowledge multi domain contract review invoice retrieval knowledge processing claim analysis reasoning strength simplicity quick setup high accuracy end end automation collaborative reasoning domain specific intelligence challenge poor contextual coordination resource overhead domain understanding complexity standardization comparative analysis underscore evolutionary trajectory traditional rag agentic rag agentic document workflow adw traditional rag offer simplicity ease deployment basic task agentic rag introduces enhanced reasoning scalability multi agent collaboration adw build upon advancement providing robust document centric workflow facilitate end end automation integration domain specific process understanding strength limitation framework crucial selecting appropriate architecture meet specific application requirement operational demand application agentic rag agentic retrieval augmented generation rag system demonstrated transformative potential across variety domain combining real time data retrieval generative capability autonomous decision making system address complex dynamic multi modal challenge section explores key application agentic rag providing detailed insight system shaping industry customer support healthcare finance education legal workflow creative industry customer support virtual assistant agentic rag system revolutionizing customer support enabling real time context aware query resolution traditional chatbots virtual assistant often rely static knowledge base leading generic outdated response contrast agentic rag system dynamically retrieve relevant information adapt user context generate personalized response use case twitch ad sale enhancement 39 instance twitch leveraged agentic workflow rag amazon bedrock streamline ad sale system 29",
+        "keywords": [
+            [
+                "rag",
+                0.4037
+            ],
+            [
+                "agentic",
+                0.38
+            ],
+            [
+                "workflow",
+                0.285
+            ],
+            [
+                "multi",
+                0.2375
+            ],
+            [
+                "system",
+                0.19
+            ],
+            [
+                "document",
+                0.1805
+            ],
+            [
+                "end",
+                0.1803
+            ],
+            [
+                "reasoning",
+                0.1662
+            ],
+            [
+                "domain",
+                0.1662
+            ],
+            [
+                "analysis",
+                0.1582
+            ]
+        ],
+        "named_entities": [
+            [
+                "6",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "2",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "three",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Traditional RAG",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "Agentic Document Workflows",
+                "WORK_OF_ART",
+                "Titles of books, songs, etc."
+            ],
+            [
+                "ADW",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "2",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Agentic RAG vs",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "Agentic Document Workflows",
+                "WORK_OF_ART",
+                "Titles of books, songs, etc."
+            ],
+            [
+                "ADW",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Feature Traditional RAG Agentic RAG Agentic Document\nWorkflows",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "ADW",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Focus Isolated",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Context Maintenance Limited Enabled",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Maintains",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "Workflow Absent Orchestrates",
+                "WORK_OF_ART",
+                "Titles of books, songs, etc."
+            ],
+            [
+                "Integrates",
+                "NORP",
+                "Nationalities or religious or political groups"
+            ],
+            [
+                "Extends",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "Scalability Limited",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Scales",
+                "GPE",
+                "Countries, cities, states"
+            ],
+            [
+                "Complex Reasoning Basic",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "Structured",
+                "PRODUCT",
+                "Objects, vehicles, foods, etc. (not services)"
+            ],
+            [
+                "Q&A",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "QA",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Strengths Simplicity",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Challenges Poor contextual",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Traditional RAG",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Agentic Document Workflows",
+                "WORK_OF_ART",
+                "Titles of books, songs, etc."
+            ],
+            [
+                "ADW",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Agentic RAG",
+                "PRODUCT",
+                "Objects, vehicles, foods, etc. (not services)"
+            ],
+            [
+                "ADW",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Agentic",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "7.1",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Customer Support",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Agentic RAG",
+                "PRODUCT",
+                "Objects, vehicles, foods, etc. (not services)"
+            ],
+            [
+                "Twitch Ad Sales Enhancement",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "39",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Twitch",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "RAG",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Amazon Bedrock",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "29",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ]
+        ],
+        "possible_tables_from_text": [
+            [
+                [
+                    "Primary Applications",
+                    "QA systems, knowledge Multi-domain Contract review, invoice"
+                ],
+                [
+                    "collaborative reasoning",
+                    "domain-specific intelligence"
+                ]
+            ]
+        ],
+        "detected_visual_regions": [
+            {
+                "x": 143,
+                "y": 334,
+                "w": 906,
+                "h": 557,
+                "area": 504642
+            }
+        ],
+        "segmented_regions": [
+            {
+                "x": 143,
+                "y": 334,
+                "w": 905,
+                "h": 556,
+                "area": 22204,
+                "type": "Large Region"
+            }
+        ],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\agentic rag29_page_1_preprocessed.png",
+        "table_ocr_results": [
+            {
+                "file_name": "agentic rag29_page_1.png",
+                "table_number": 1,
+                "region": {
+                    "x": 143,
+                    "y": 334,
+                    "w": 906,
+                    "h": 557,
+                    "area": 504642
+                },
+                "ocr_text": "Traditional RAG Agentic RAG Agentic Document\non SS Nenfows ADH)\nIsolated retrieval and Multi-agent Document-centric\ngeneration tasks collaboration and end-to-end workflows\nreasoning\nContext Maintenance Limited Enabled through Maintains state across\na\nDynamic Adaptability Minimal High Tailored to document\noN Nato\nWorkflow Absent Orchestrates multi-agent Integrates multi-step\norchestration ORR ctment proceie\nUse of External Basic integration (e.g., Extends via tools like Deeply integrates business\nTools/APIs retrieval tools) APIs and knowledge rules and domain-specific\nbases tools\nScalability Limited to small Scalable for multi-agent Scales for multi-domain\nMN dametsorquenes Stans | emis eons\nComplex Reasoning Basic (e.g., simple Multi-step reasoning Structured reasoning across\naoe eae | Nimans | came\nPrimary Applications | QA systems, knowledge Multi-domain Contract review, invoice\nretrieval knowledge and processing, claims analysis\nreasoning\nStrengths Simplicity, quick setup High accuracy, End-to-end automation,\nBenet Snes aest 0? [cane renoxng | donnnspctic mg |\nChallenges Poor contextual Coordination Resource overhead, domain\n| Chae Tf Cort aton | Res ad domain",
+                "character_count": 1181
+            }
+        ],
+        "number_of_titles": 4,
+        "number_of_paragraphs": 7,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 2,
+        "number_of_possible_tables_from_text": 1,
+        "number_of_detected_table_regions": 1,
+        "number_of_segmented_regions": 1,
+        "number_of_table_ocr_results": 1,
+        "document_insight": "titles/headings identified; text references tables; possible table-like text found; table-like visual regions detected; table OCR extracted from cropped regions"
+    },
+    {
+        "file_name": "agentic rag8_page_1.png",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\agentic rag8_page_1.png",
+        "main_title": "Paradigm Key Features Strengths",
+        "titles": [
+            "Paradigm Key Features Strengths",
+            "2.4.2. Multi-Step Reasoning",
+            "2.4.3 Scalability and Latency Issues",
+            "2.5 Agentic RAG: A Paradigm Shift"
+        ],
+        "figure_references": [],
+        "table_references": [
+            "Table 1: Comparative Analysis of RAG Paradigms"
+        ],
+        "ocr_text": "Table 1: Comparative Analysis of RAG Paradigms\n\nParadigm Key Features Strengths\nNaive RAG * Keyword-based retrieval (e.g., . Simple and easy to implement\nTF-IDF, BM25) * Suitable for fact-based queries\n* Dense retrieval models (e.g.,\nAdvanced RAG DPR) ; * High precision retrieval\n+ Neural ranking and re-ranking + Improved contextual relevance\n* Multi-hop retrieval\n* Hybrid retrieval (sparse and\ndense) * High flexibility and customization\nModular RAG + Tool and API integration * Suitable for diverse applications\n* Composable, domain-specific * Scalable\npipelines\n* Integration of graph-based\nstructures * Relational reasoning capabilities\nGraph RAG * Multi-hop reasoning * Mitigates hallucinations\n* Contextual enrichment via + Ideal for structured data tasks\nnodes\n* Autonomous agents * Adaptable to real-time changes\nAgentic RAG + Dynamic decision-making * Scalable for multi-domain tasks\n* Iterative refinement and work- .\nrenner * High accuracy\nflow optimization\n\n2.4.2. Multi-Step Reasoning\n\nMany real-world queries require iterative or multi-hop reasoning\u2014retrieving and synthesizing information across\nmultiple steps. Traditional RAG systems are often ill-equipped to refine retrieval based on intermediate insights or user\nfeedback, resulting in incomplete or disjointed responses.\n\nExample: A complex query like, \"What lessons from renewable energy policies in Europe can be applied to developing\nnations, and what are the potential economic impacts?\" demands the orchestration of multiple types of information,\nincluding policy data, contextualization for developing regions, and economic analysis. Traditional RAG systems\ntypically fail to connect these disparate elements into a cohesive response.\n\n2.4.3 Scalability and Latency Issues\n\nAs the volume of external data sources grows, querying and ranking large datasets becomes increasingly computationally\nintensive. This results in significant latency, which undermines the system\u2019s ability to provide timely responses in\nreal-time application:\n\nExample: In time-sensitive settings such as financial analytics or live customer support, delays caused by querying\nmultiple databases or processing large document sets can hinder the system\u2019s overall utility. For example, a delay in\nretrieving market trends during high-frequency trading could result in missed opportunities.\n\n2.5 Agentic RAG: A Paradigm Shift\n\nTraditional RAG systems, with their static workflows and limited adaptability, often struggle to handle dynamic, multi-\nstep reasoning and complex real-world tasks. These limitations have spurred the integration of agentic intelligence,\nresulting in Agentic RAG. By incorporating autonomous agents capable of dynamic decision-making, iterative reasoning,\nand adaptive retrieval strategies, Agentic RAG builds on the modularity of earlier paradigms while overcoming their\ninherent constraints. This evolution enables more complex, multi-domain tasks to be addressed with enhanced precision\nand contextual understanding, positioning Agentic RAG as a cornerstone for next-generation AI applications. In\n",
+        "cleaned_text": "table comparative analysis rag paradigm paradigm key feature strength naive rag keyword based retrieval simple easy implement tf idf bm25 suitable fact based query dense retrieval model advanced rag dpr high precision retrieval neural ranking ranking improved contextual relevance multi hop retrieval hybrid retrieval sparse dense high flexibility customization modular rag tool api integration suitable diverse application composable domain specific scalable pipeline integration graph based structure relational reasoning capability graph rag multi hop reasoning mitigates hallucination contextual enrichment via ideal structured data task node autonomous agent adaptable real time change agentic rag dynamic decision making scalable multi domain task iterative refinement work renner high accuracy flow optimization multi step reasoning many real world query require iterative multi hop reasoning retrieving synthesizing information across multiple step traditional rag system often ill equipped refine retrieval based intermediate insight user feedback resulting incomplete disjointed response example complex query like lesson renewable energy policy europe applied developing nation potential economic impact demand orchestration multiple type information including policy data contextualization developing region economic analysis traditional rag system typically fail connect disparate element cohesive response scalability latency issue volume external data source grows querying ranking large datasets becomes increasingly computationally intensive result significant latency undermines system ability provide timely response real time application example time sensitive setting financial analytics live customer support delay caused querying multiple database processing large document set hinder system overall utility example delay retrieving market trend high frequency trading could result missed opportunity agentic rag paradigm shift traditional rag system static workflow limited adaptability often struggle handle dynamic multi step reasoning complex real world task limitation spurred integration agentic intelligence resulting agentic rag incorporating autonomous agent capable dynamic decision making iterative reasoning adaptive retrieval strategy agentic rag build modularity earlier paradigm overcoming inherent constraint evolution enables complex multi domain task addressed enhanced precision contextual understanding positioning agentic rag cornerstone next generation ai application",
+        "keywords": [
+            [
+                "rag",
+                0.4196
+            ],
+            [
+                "retrieval",
+                0.2259
+            ],
+            [
+                "multi",
+                0.2259
+            ],
+            [
+                "reasoning",
+                0.1936
+            ],
+            [
+                "agentic",
+                0.1936
+            ],
+            [
+                "system",
+                0.1614
+            ],
+            [
+                "based",
+                0.1433
+            ],
+            [
+                "paradigm",
+                0.1433
+            ],
+            [
+                "real",
+                0.1291
+            ],
+            [
+                "task",
+                0.1291
+            ]
+        ],
+        "named_entities": [
+            [
+                "1",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Advanced RAG DPR",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "+ Neural",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "API",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Graph RAG * Multi",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "Mitigates",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "Agentic RAG + Dynamic",
+                "PRODUCT",
+                "Objects, vehicles, foods, etc. (not services)"
+            ],
+            [
+                "2.4.2",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Multi-Step Reasoning",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Europe",
+                "LOC",
+                "Non-GPE locations, mountain ranges, bodies of water"
+            ],
+            [
+                "2.4.3",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Latency",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "2.5",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Agentic RAG",
+                "LOC",
+                "Non-GPE locations, mountain ranges, bodies of water"
+            ],
+            [
+                "Agentic RAG",
+                "PRODUCT",
+                "Objects, vehicles, foods, etc. (not services)"
+            ],
+            [
+                "Agentic RAG",
+                "PERSON",
+                "People, including fictional"
+            ]
+        ],
+        "possible_tables_from_text": [],
+        "detected_visual_regions": [
+            {
+                "x": 130,
+                "y": 179,
+                "w": 927,
+                "h": 600,
+                "area": 556200
+            }
+        ],
+        "segmented_regions": [
+            {
+                "x": 130,
+                "y": 179,
+                "w": 926,
+                "h": 599,
+                "area": 14943,
+                "type": "Large Region"
+            }
+        ],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\agentic rag8_page_1_preprocessed.png",
+        "table_ocr_results": [
+            {
+                "file_name": "agentic rag8_page_1.png",
+                "table_number": 1,
+                "region": {
+                    "x": 130,
+                    "y": 179,
+                    "w": 927,
+                    "h": 600,
+                    "area": 556200
+                },
+                "ocr_text": "Key Features\nNaive RAG * Keyword-based retrieval (e.g., . Simple and easy to implement\nTF-IDF, BM25) * Suitable for fact-based queries\n+ Dense retrieval models (e.g.,\nAdvanced RAG DPR) ; * High precision retrieval\n+ Neural ranking and re-ranking + Improved contextual relevance\n* Multi-hop retrieval\n* Hybrid retrieval (sparse and\ndense) * High flexibility and customization\nModular RAG + Tool and API integration * Suitable for diverse applications\n* Composable, domain-specific * Scalable\npipelines\n* Integration of graph-based\nstructures * Relational reasoning capabilities\nGraph RAG * Multi-hop reasoning * Mitigates hallucinations\n* Contextual enrichment via + Ideal for structured data tasks\nnodes\n* Autonomous agents + Adaptable to real-time changes\nAgentic RAG * Dynamic decision-making * Scalable for multi-domain tasks\n* Iterative refinement and work- .\neam * High accuracy\nflow optimization",
+                "character_count": 901
+            }
+        ],
+        "number_of_titles": 4,
+        "number_of_paragraphs": 6,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 1,
+        "number_of_possible_tables_from_text": 0,
+        "number_of_detected_table_regions": 1,
+        "number_of_segmented_regions": 1,
+        "number_of_table_ocr_results": 1,
+        "document_insight": "titles/headings identified; text references tables; table-like visual regions detected; table OCR extracted from cropped regions"
+    },
+    {
+        "file_name": "Colosseum.jpg",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\Colosseum.jpg",
+        "main_title": null,
+        "titles": [],
+        "figure_references": [],
+        "table_references": [],
+        "ocr_text": "",
+        "cleaned_text": "",
+        "keywords": [],
+        "named_entities": [],
+        "possible_tables_from_text": [],
+        "detected_visual_regions": [],
+        "segmented_regions": [
+            {
+                "x": 0,
+                "y": 0,
+                "w": 606,
+                "h": 355,
+                "area": 19528,
+                "type": "Large Region"
+            },
+            {
+                "x": 402,
+                "y": 0,
+                "w": 123,
+                "h": 89,
+                "area": 1783,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 419,
+                "y": 118,
+                "w": 35,
+                "h": 81,
+                "area": 1013,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 633,
+                "y": 168,
+                "w": 419,
+                "h": 120,
+                "area": 6898,
+                "type": "Large Region"
+            },
+            {
+                "x": 641,
+                "y": 201,
+                "w": 113,
+                "h": 37,
+                "area": 1017,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 530,
+                "y": 211,
+                "w": 108,
+                "h": 20,
+                "area": 1158,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 896,
+                "y": 213,
+                "w": 73,
+                "h": 75,
+                "area": 1038,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 488,
+                "y": 219,
+                "w": 190,
+                "h": 123,
+                "area": 4802,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 170,
+                "y": 221,
+                "w": 342,
+                "h": 214,
+                "area": 9064,
+                "type": "Large Region"
+            },
+            {
+                "x": 1065,
+                "y": 253,
+                "w": 135,
+                "h": 47,
+                "area": 1411,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 598,
+                "y": 260,
+                "w": 72,
+                "h": 84,
+                "area": 1782,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 294,
+                "y": 270,
+                "w": 40,
+                "h": 77,
+                "area": 1322,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 681,
+                "y": 272,
+                "w": 48,
+                "h": 73,
+                "area": 1150,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 248,
+                "y": 275,
+                "w": 30,
+                "h": 75,
+                "area": 1037,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 712,
+                "y": 278,
+                "w": 59,
+                "h": 70,
+                "area": 1803,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 832,
+                "y": 281,
+                "w": 85,
+                "h": 79,
+                "area": 2671,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 785,
+                "y": 284,
+                "w": 49,
+                "h": 77,
+                "area": 1396,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 79,
+                "y": 305,
+                "w": 91,
+                "h": 97,
+                "area": 1692,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1045,
+                "y": 324,
+                "w": 87,
+                "h": 79,
+                "area": 1148,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1097,
+                "y": 340,
+                "w": 103,
+                "h": 78,
+                "area": 1988,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 334,
+                "y": 342,
+                "w": 160,
+                "h": 29,
+                "area": 1404,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 53,
+                "y": 348,
+                "w": 303,
+                "h": 177,
+                "area": 11162,
+                "type": "Large Region"
+            },
+            {
+                "x": 650,
+                "y": 348,
+                "w": 102,
+                "h": 20,
+                "area": 1062,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 280,
+                "y": 357,
+                "w": 506,
+                "h": 180,
+                "area": 11172,
+                "type": "Large Region"
+            },
+            {
+                "x": 834,
+                "y": 363,
+                "w": 96,
+                "h": 116,
+                "area": 2464,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 783,
+                "y": 369,
+                "w": 44,
+                "h": 112,
+                "area": 2181,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 924,
+                "y": 397,
+                "w": 30,
+                "h": 77,
+                "area": 1141,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1069,
+                "y": 400,
+                "w": 114,
+                "h": 45,
+                "area": 1147,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 883,
+                "y": 405,
+                "w": 35,
+                "h": 76,
+                "area": 1196,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 678,
+                "y": 407,
+                "w": 95,
+                "h": 94,
+                "area": 1834,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 428,
+                "y": 408,
+                "w": 47,
+                "h": 83,
+                "area": 1133,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 352,
+                "y": 410,
+                "w": 45,
+                "h": 99,
+                "area": 1075,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 378,
+                "y": 426,
+                "w": 109,
+                "h": 95,
+                "area": 2045,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 588,
+                "y": 511,
+                "w": 206,
+                "h": 39,
+                "area": 1619,
+                "type": "Text/Visual Region"
+            }
+        ],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\Colosseum_preprocessed.png",
+        "table_ocr_results": [],
+        "number_of_titles": 0,
+        "number_of_paragraphs": 0,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 0,
+        "number_of_possible_tables_from_text": 0,
+        "number_of_detected_table_regions": 0,
+        "number_of_segmented_regions": 34,
+        "number_of_table_ocr_results": 0,
+        "document_insight": "multiple segmented document regions found"
+    },
+    {
+        "file_name": "handwritten_receipt.jfif",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\handwritten_receipt.jfif",
+        "main_title": "2 PLEASE mse Loe RECEIPT aT Nt NEXT PAYMENT.",
+        "titles": [
+            "2 PLEASE mse Loe RECEIPT aT Nt NEXT PAYMENT.",
+            "ONES,",
+            "SNS",
+            "(2 Adjusted Poor Rate"
+        ],
+        "figure_references": [],
+        "table_references": [],
+        "ocr_text": "2 PLEASE mse Loe RECEIPT aT Nt NEXT PAYMENT.\nThe ony a the oun Vas a Office\n: ne melds a\n\nesi fm cole & A les Ae\n\noe Slag\n/ \u201cls Soot 7\n\n2\n\nONES,\n\n1D. td. JUALIN, ASC.\nSNS\n\npees\n\nday / 4 = Bey.\n\n(2 Adjusted Poor Rate\n\n(Income Tax... ros A\nTotal, = was Lo ee 2.\n\nAllow ances:\n\n",
+        "cleaned_text": "please mse loe receipt nt next payment ony oun va office ne meld esi fm cole le ae oe slag l soot one 1d td jualin asc sn pee day bey adjusted poor rate income tax ro total lo ee allow ances",
+        "keywords": [
+            [
+                "receipt",
+                0.1632
+            ],
+            [
+                "nt",
+                0.1632
+            ],
+            [
+                "loe",
+                0.1632
+            ],
+            [
+                "oun",
+                0.1632
+            ],
+            [
+                "bey",
+                0.1632
+            ],
+            [
+                "sn",
+                0.1632
+            ],
+            [
+                "le",
+                0.1632
+            ],
+            [
+                "jualin",
+                0.1632
+            ],
+            [
+                "asc",
+                0.1632
+            ],
+            [
+                "slag",
+                0.1632
+            ]
+        ],
+        "named_entities": [
+            [
+                "2",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "fm cole & A",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "JUALIN",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "ASC",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "SNS",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "Bey",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "2",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Lo",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "2",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ]
+        ],
+        "possible_tables_from_text": [],
+        "detected_visual_regions": [],
+        "segmented_regions": [
+            {
+                "x": 228,
+                "y": 45,
+                "w": 87,
+                "h": 64,
+                "area": 1402,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 648,
+                "y": 98,
+                "w": 1199,
+                "h": 16,
+                "area": 3344,
+                "type": "Possible Heading/Table Line"
+            },
+            {
+                "x": 6,
+                "y": 203,
+                "w": 94,
+                "h": 62,
+                "area": 1063,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 198,
+                "y": 204,
+                "w": 418,
+                "h": 73,
+                "area": 1033,
+                "type": "Possible Heading/Table Line"
+            },
+            {
+                "x": 0,
+                "y": 266,
+                "w": 101,
+                "h": 132,
+                "area": 2974,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 449,
+                "y": 360,
+                "w": 269,
+                "h": 133,
+                "area": 4440,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 421,
+                "y": 372,
+                "w": 154,
+                "h": 117,
+                "area": 1264,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 795,
+                "y": 377,
+                "w": 162,
+                "h": 117,
+                "area": 2543,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 0,
+                "y": 399,
+                "w": 100,
+                "h": 264,
+                "area": 5531,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 947,
+                "y": 400,
+                "w": 102,
+                "h": 130,
+                "area": 1235,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1426,
+                "y": 423,
+                "w": 197,
+                "h": 133,
+                "area": 3405,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1081,
+                "y": 449,
+                "w": 96,
+                "h": 47,
+                "area": 1315,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 189,
+                "y": 515,
+                "w": 177,
+                "h": 105,
+                "area": 3008,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 407,
+                "y": 537,
+                "w": 201,
+                "h": 148,
+                "area": 2615,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 655,
+                "y": 542,
+                "w": 100,
+                "h": 155,
+                "area": 1972,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 815,
+                "y": 602,
+                "w": 1339,
+                "h": 21,
+                "area": 3682,
+                "type": "Possible Heading/Table Line"
+            },
+            {
+                "x": 696,
+                "y": 632,
+                "w": 243,
+                "h": 103,
+                "area": 2473,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1530,
+                "y": 636,
+                "w": 273,
+                "h": 100,
+                "area": 3222,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 34,
+                "y": 663,
+                "w": 13,
+                "h": 503,
+                "area": 1100,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1610,
+                "y": 747,
+                "w": 251,
+                "h": 169,
+                "area": 3880,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1916,
+                "y": 777,
+                "w": 81,
+                "h": 103,
+                "area": 1163,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 2111,
+                "y": 777,
+                "w": 84,
+                "h": 73,
+                "area": 1102,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 377,
+                "y": 830,
+                "w": 445,
+                "h": 9,
+                "area": 1435,
+                "type": "Possible Heading/Table Line"
+            },
+            {
+                "x": 47,
+                "y": 844,
+                "w": 54,
+                "h": 182,
+                "area": 1756,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 186,
+                "y": 886,
+                "w": 113,
+                "h": 104,
+                "area": 2729,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 599,
+                "y": 888,
+                "w": 116,
+                "h": 103,
+                "area": 3246,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 726,
+                "y": 895,
+                "w": 82,
+                "h": 95,
+                "area": 1450,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1887,
+                "y": 897,
+                "w": 119,
+                "h": 95,
+                "area": 3769,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 967,
+                "y": 906,
+                "w": 871,
+                "h": 110,
+                "area": 19521,
+                "type": "Possible Heading/Table Line"
+            },
+            {
+                "x": 312,
+                "y": 931,
+                "w": 274,
+                "h": 61,
+                "area": 3163,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 775,
+                "y": 931,
+                "w": 92,
+                "h": 69,
+                "area": 2402,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 902,
+                "y": 931,
+                "w": 55,
+                "h": 61,
+                "area": 1621,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 2003,
+                "y": 931,
+                "w": 150,
+                "h": 61,
+                "area": 3599,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 442,
+                "y": 1008,
+                "w": 170,
+                "h": 132,
+                "area": 2893,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1174,
+                "y": 1010,
+                "w": 115,
+                "h": 103,
+                "area": 1331,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 298,
+                "y": 1014,
+                "w": 67,
+                "h": 90,
+                "area": 1126,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1466,
+                "y": 1015,
+                "w": 131,
+                "h": 101,
+                "area": 1757,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 887,
+                "y": 1019,
+                "w": 79,
+                "h": 93,
+                "area": 1384,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1026,
+                "y": 1020,
+                "w": 65,
+                "h": 91,
+                "area": 1139,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1308,
+                "y": 1022,
+                "w": 108,
+                "h": 91,
+                "area": 1773,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 2173,
+                "y": 1043,
+                "w": 107,
+                "h": 74,
+                "area": 1492,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 590,
+                "y": 1061,
+                "w": 120,
+                "h": 49,
+                "area": 1381,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 46,
+                "y": 1063,
+                "w": 52,
+                "h": 102,
+                "area": 1074,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1709,
+                "y": 1070,
+                "w": 89,
+                "h": 84,
+                "area": 1229,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 459,
+                "y": 1138,
+                "w": 222,
+                "h": 109,
+                "area": 3674,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 0,
+                "y": 1247,
+                "w": 99,
+                "h": 236,
+                "area": 5478,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 779,
+                "y": 1248,
+                "w": 73,
+                "h": 95,
+                "area": 1046,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1122,
+                "y": 1261,
+                "w": 237,
+                "h": 178,
+                "area": 3611,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 360,
+                "y": 1287,
+                "w": 97,
+                "h": 71,
+                "area": 1118,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1557,
+                "y": 1313,
+                "w": 91,
+                "h": 78,
+                "area": 1283,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1581,
+                "y": 1466,
+                "w": 154,
+                "h": 195,
+                "area": 2795,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1595,
+                "y": 1467,
+                "w": 594,
+                "h": 271,
+                "area": 34532,
+                "type": "Large Region"
+            },
+            {
+                "x": 0,
+                "y": 1483,
+                "w": 98,
+                "h": 236,
+                "area": 4477,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 724,
+                "y": 1756,
+                "w": 374,
+                "h": 9,
+                "area": 1983,
+                "type": "Possible Heading/Table Line"
+            },
+            {
+                "x": 0,
+                "y": 1866,
+                "w": 2393,
+                "h": 41,
+                "area": 14294,
+                "type": "Possible Heading/Table Line"
+            }
+        ],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\handwritten_receipt_preprocessed.png",
+        "table_ocr_results": [],
+        "number_of_titles": 4,
+        "number_of_paragraphs": 2,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 0,
+        "number_of_possible_tables_from_text": 0,
+        "number_of_detected_table_regions": 0,
+        "number_of_segmented_regions": 55,
+        "number_of_table_ocr_results": 0,
+        "document_insight": "titles/headings identified; multiple segmented document regions found"
+    },
+    {
+        "file_name": "movie poster.jpeg",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\movie poster.jpeg",
+        "main_title": null,
+        "titles": [],
+        "figure_references": [],
+        "table_references": [],
+        "ocr_text": "MICHAEL @Z/AZIE, AS i\nOn REN ROEETZ) CHAU D\u2019\n\ni ie |\n",
+        "cleaned_text": "michael azie ren roeetz chau ie",
+        "keywords": [
+            [
+                "ren",
+                0.4163
+            ],
+            [
+                "michael",
+                0.4163
+            ],
+            [
+                "roeetz",
+                0.4163
+            ],
+            [
+                "chau",
+                0.4163
+            ],
+            [
+                "azie",
+                0.4163
+            ],
+            [
+                "ie",
+                0.3652
+            ]
+        ],
+        "named_entities": [
+            [
+                "MICHAEL",
+                "PERSON",
+                "People, including fictional"
+            ]
+        ],
+        "possible_tables_from_text": [],
+        "detected_visual_regions": [],
+        "segmented_regions": [
+            {
+                "x": 0,
+                "y": 0,
+                "w": 1350,
+                "h": 1083,
+                "area": 287675,
+                "type": "Large Region"
+            },
+            {
+                "x": 0,
+                "y": 55,
+                "w": 81,
+                "h": 64,
+                "area": 1676,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1247,
+                "y": 212,
+                "w": 60,
+                "h": 71,
+                "area": 1227,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 53,
+                "y": 227,
+                "w": 69,
+                "h": 166,
+                "area": 2369,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 594,
+                "y": 328,
+                "w": 96,
+                "h": 140,
+                "area": 3004,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 653,
+                "y": 479,
+                "w": 100,
+                "h": 111,
+                "area": 2068,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 0,
+                "y": 530,
+                "w": 88,
+                "h": 274,
+                "area": 3518,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 0,
+                "y": 648,
+                "w": 1350,
+                "h": 1352,
+                "area": 334066,
+                "type": "Large Region"
+            },
+            {
+                "x": 350,
+                "y": 759,
+                "w": 53,
+                "h": 100,
+                "area": 1068,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 1,
+                "y": 765,
+                "w": 99,
+                "h": 60,
+                "area": 1601,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 0,
+                "y": 816,
+                "w": 413,
+                "h": 479,
+                "area": 32940,
+                "type": "Large Region"
+            },
+            {
+                "x": 411,
+                "y": 830,
+                "w": 132,
+                "h": 97,
+                "area": 2127,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 169,
+                "y": 885,
+                "w": 188,
+                "h": 175,
+                "area": 2528,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 259,
+                "y": 934,
+                "w": 84,
+                "h": 79,
+                "area": 1301,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 224,
+                "y": 969,
+                "w": 94,
+                "h": 126,
+                "area": 1047,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 663,
+                "y": 1000,
+                "w": 69,
+                "h": 86,
+                "area": 1310,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 968,
+                "y": 1057,
+                "w": 129,
+                "h": 117,
+                "area": 3025,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 224,
+                "y": 1307,
+                "w": 165,
+                "h": 124,
+                "area": 2855,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 397,
+                "y": 1391,
+                "w": 65,
+                "h": 348,
+                "area": 3187,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 734,
+                "y": 1561,
+                "w": 87,
+                "h": 48,
+                "area": 1137,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 943,
+                "y": 1560,
+                "w": 75,
+                "h": 69,
+                "area": 1006,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 220,
+                "y": 1606,
+                "w": 152,
+                "h": 62,
+                "area": 1050,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 26,
+                "y": 1653,
+                "w": 55,
+                "h": 85,
+                "area": 1511,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 334,
+                "y": 1722,
+                "w": 85,
+                "h": 191,
+                "area": 3975,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 0,
+                "y": 1815,
+                "w": 168,
+                "h": 185,
+                "area": 2896,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 317,
+                "y": 1879,
+                "w": 129,
+                "h": 110,
+                "area": 2356,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 12,
+                "y": 1889,
+                "w": 101,
+                "h": 111,
+                "area": 1041,
+                "type": "Text/Visual Region"
+            }
+        ],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\movie poster_preprocessed.png",
+        "table_ocr_results": [],
+        "number_of_titles": 0,
+        "number_of_paragraphs": 1,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 0,
+        "number_of_possible_tables_from_text": 0,
+        "number_of_detected_table_regions": 0,
+        "number_of_segmented_regions": 27,
+        "number_of_table_ocr_results": 0,
+        "document_insight": "multiple segmented document regions found"
+    },
+    {
+        "file_name": "receipt-ocr-original.jpg",
+        "image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\image_output\\receipt-ocr-original.jpg",
+        "main_title": "Walmar ><.",
+        "titles": [
+            "Walmar ><.",
+            "MANAG:",
+            "NEW PHI",
+            "ST# 02115 OP#",
+            "PET TOY",
+            "FLOPPY PUPPY",
+            "SSSUPREME S",
+            "2.5 SQUEAK",
+            "MUNCHY DMBEL",
+            "DOG TREAT",
+            "PED PCH 1",
+            "PED PCH 1",
+            "COUPON 23100",
+            "HNYMD SMORES",
+            "FRENCH DRSNG",
+            "3 ORANGES",
+            "BABY CARROTS",
+            "COLLARDS",
+            "CALZONE",
+            "MM RVW MNT",
+            "STKOBRLPLABL",
+            "STKOBRLPLABL",
+            "STKO SUNFLWR",
+            "STKO SUNFLWR",
+            "STKO SUNFLWR",
+            "STKO SUNFLWR",
+            "BLING BEADS",
+            "GREAT VALUE",
+            "LIPTON",
+            "DRY DOG",
+            "TAX",
+            "US DEBIT",
+            "APPROVAL # 57",
+            "REF # 7209005",
+            "TRANS ID - 38",
+            "VALIDATION -",
+            "PAYMENT SERVI!",
+            "AID A00000009",
+            "TC 51319CA81D",
+            "TERMINAL # SC",
+            "*Signature Ve",
+            "TCH 0443",
+            "Low Prices Y\u00a5",
+            "30 ) 339 - 3991",
+            "ER DIANA EARNEST",
+            "BLUEBELL DR SW",
+            "LADELPHIA OH 44663",
+            "009044 TE# 44 TR# 01301",
+            "004747571658 1.97 X",
+            "004747514846 1.97 X",
+            "070060332153 4.97 x",
+            "084699803238 5.92 X",
+            "068113108796 3.77 X",
+            "007119013654 2.92 X",
+            "002310011802 0.50 x",
+            "002310011802 0.50 x",
+            "052310037000 1.00-0",
+            "088491226837 F 3.98 0",
+            "004132100655 F 1.98 0",
+            "001466835001 F 5.47 N",
+            "003338366602 1.48 N",
+            "00000000461 4kz 1.24 N",
+            "005208362080 F 2.50 0",
+            "003399105848 19.77 X",
+            "001558679414 1.97 X",
+            "001558679414 1.97 X",
+            "001558679410 0.97 x",
+            "001558679410 0.97 x",
+            "001558679410 0.97 x",
+            "001558679410 0.97 x",
+            "076594060699 0.97 x",
+            "007874203191 F 9.97 0",
+            "001200011224 F 4.48 x",
+            "002310011035 12.44 X",
+            "SUBTOTAL 93.62",
+            "1 6.750 % 4.59",
+            "TOTAL 98.21",
+            "VISA TEND 98.21",
+            "87HS",
+            "CE-E",
+            "C2 2BC7",
+            "CHANGE DUE 0.00",
+            "ITEMS SOLD 25",
+            "0223 1059 8001 5140",
+            "Y",
+            "USTOMER COPY***"
+        ],
+        "figure_references": [],
+        "table_references": [],
+        "ocr_text": "Walmar ><.\n\nSave money. Live better.\n\n(3\nMANAG:\n231\nNEW PHI\nST# 02115 OP#\nPET TOY\nFLOPPY PUPPY\nSSSUPREME S\n2.5 SQUEAK\nMUNCHY DMBEL\nDOG TREAT\nPED PCH 1\nPED PCH 1\nCOUPON 23100\nHNYMD SMORES\nFRENCH DRSNG\n3 ORANGES\nBABY CARROTS\nCOLLARDS\nCALZONE\nMM RVW MNT\nSTKOBRLPLABL\nSTKOBRLPLABL\nSTKO SUNFLWR\nSTKO SUNFLWR\nSTKO SUNFLWR\nSTKO SUNFLWR\nBLING BEADS\nGREAT VALUE\nLIPTON\nDRY DOG\n\nTAX\n\nUS DEBIT\nAPPROVAL # 57\nREF # 7209005\nTRANS ID - 38\nVALIDATION -\nPAYMENT SERVI!\n\nAID A00000009\nTC 51319CA81D\nTERMINAL # SC\n*Signature Ve\n\n07/28\n\n#\nTCH 0443\n\nLow Prices Y\u00a5\n\n07/28\n\n#eEC\n\n30 ) 339 - 3991\nER DIANA EARNEST\nBLUEBELL DR SW\n\nLADELPHIA OH 44663\n009044 TE# 44 TR# 01301\n004747571658 1.97 X\n004747514846 1.97 X\n070060332153 4.97 x\n084699803238 5.92 X\n068113108796 3.77 X\n007119013654 2.92 X\n002310011802 0.50 x\n002310011802 0.50 x\n052310037000 1.00-0\n088491226837 F 3.98 0\n004132100655 F 1.98 0\n001466835001 F 5.47 N\n003338366602 1.48 N\n00000000461 4kz 1.24 N\n005208362080 F 2.50 0\n003399105848 19.77 X\n001558679414 1.97 X\n001558679414 1.97 X\n001558679410 0.97 x\n001558679410 0.97 x\n001558679410 0.97 x\n001558679410 0.97 x\n076594060699 0.97 x\n007874203191 F 9.97 0\n001200011224 F 4.48 x\n002310011035 12.44 X\n\nSUBTOTAL 93.62\n1 6.750 % 4.59\nTOTAL 98.21\nVISA TEND 98.21\neee KEEE HEEe 9166 I 0\n2868\n44961\n7209239650894\n87HS\nCE-E\n80840\nC2 2BC7\n010764\nrified\n/17 02:39:48\nCHANGE DUE 0.00\nITEMS SOLD 25\n\n0223 1059 8001 5140\n\nou Can Trust. Every Day.\nY\n\n/17 02:39:48\n\nUSTOMER COPY***\n\n",
+        "cleaned_text": "walmar save money live better manag 231 new phi st 02115 op pet toy floppy puppy sssupreme squeak munchy dmbel dog treat ped pch ped pch coupon 23100 hnymd smores french drsng orange baby carrot collard calzone mm rvw mnt stkobrlplabl stkobrlplabl stko sunflwr stko sunflwr stko sunflwr stko sunflwr bling bead great value lipton dry dog tax u debit approval 57 ref 7209005 trans id 38 validation payment servi aid a00000009 tc 51319ca81d terminal sc signature 07 28 tch 0443 low price 07 28 eec 30 339 3991 er diana earnest bluebell dr sw ladelphia oh 44663 009044 te 44 tr 01301 004747571658 97 004747514846 97 070060332153 97 084699803238 92 068113108796 77 007119013654 92 002310011802 50 002310011802 50 052310037000 00 088491226837 98 004132100655 98 001466835001 47 003338366602 48 00000000461 4kz 24 005208362080 50 003399105848 19 77 001558679414 97 001558679414 97 001558679410 97 001558679410 97 001558679410 97 001558679410 97 076594060699 97 007874203191 97 001200011224 48 002310011035 12 44 subtotal 93 62 750 59 total 98 21 visa tend 98 21 eee keee heee 9166 2868 44961 7209239650894 87hs ce 80840 c2 2bc7 010764 rified 17 02 39 48 change due 00 item sold 25 0223 1059 8001 5140 ou trust every day 17 02 39 48 ustomer copy",
+        "keywords": [
+            [
+                "97",
+                0.5457
+            ],
+            [
+                "stko",
+                0.1984
+            ],
+            [
+                "sunflwr",
+                0.1984
+            ],
+            [
+                "48",
+                0.1984
+            ],
+            [
+                "98",
+                0.1984
+            ],
+            [
+                "001558679410",
+                0.1984
+            ],
+            [
+                "50",
+                0.1488
+            ],
+            [
+                "17",
+                0.0992
+            ],
+            [
+                "77",
+                0.0992
+            ],
+            [
+                "dog",
+                0.0992
+            ]
+        ],
+        "named_entities": [
+            [
+                "Walmar >",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "3",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "231",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "2.5",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "PED",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "1",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "PED",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "1",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "FRENCH",
+                "NORP",
+                "Nationalities or religious or political groups"
+            ],
+            [
+                "3",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "ORANGES",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "STKOBRLPLABL\nSTKOBRLPLABL\nSTKO",
+                "PRODUCT",
+                "Objects, vehicles, foods, etc. (not services)"
+            ],
+            [
+                "US",
+                "GPE",
+                "Countries, cities, states"
+            ],
+            [
+                "57",
+                "MONEY",
+                "Monetary values, including unit"
+            ],
+            [
+                "30",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "339",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "OH 44663",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "009044",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "# 44 TR",
+                "MONEY",
+                "Monetary values, including unit"
+            ],
+            [
+                "01301",
+                "MONEY",
+                "Monetary values, including unit"
+            ],
+            [
+                "1.97 X\n004747514846",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "1.97",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "4.97 x\n",
+                "QUANTITY",
+                "Measurements, as of weight or distance"
+            ],
+            [
+                "084699803238",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "2.92",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "002310011802 0.50",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "002310011802",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "1.00",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "F 3.98 0\n004132100655",
+                "PRODUCT",
+                "Objects, vehicles, foods, etc. (not services)"
+            ],
+            [
+                "F 1.98 0\n001466835001",
+                "PRODUCT",
+                "Objects, vehicles, foods, etc. (not services)"
+            ],
+            [
+                "F 5.47 N\n003338366602",
+                "PRODUCT",
+                "Objects, vehicles, foods, etc. (not services)"
+            ],
+            [
+                "4kz",
+                "ORDINAL",
+                "\"first\", \"second\", etc."
+            ],
+            [
+                "1.24",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "F 2.50 0\n",
+                "PRODUCT",
+                "Objects, vehicles, foods, etc. (not services)"
+            ],
+            [
+                "1.97 X\n",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "1.97 X\n001558679410 0.97",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "001558679410",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "001558679410",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "001558679410",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "076594060699",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "F 9.97 0\n",
+                "PRODUCT",
+                "Objects, vehicles, foods, etc. (not services)"
+            ],
+            [
+                "F 4.48",
+                "PRODUCT",
+                "Objects, vehicles, foods, etc. (not services)"
+            ],
+            [
+                "002310011035",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "12.44",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "93.62",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "6.750 %",
+                "PERCENT",
+                "Percentage, including \"%\""
+            ],
+            [
+                "4.59",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "98.21",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "98.21",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "KEEE",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "9166",
+                "DATE",
+                "Absolute or relative dates or periods"
+            ],
+            [
+                "C2 2BC7",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "02:39:48",
+                "PERSON",
+                "People, including fictional"
+            ],
+            [
+                "0.00",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "25",
+                "CARDINAL",
+                "Numerals that do not fall under another type"
+            ],
+            [
+                "Can Trust",
+                "ORG",
+                "Companies, agencies, institutions, etc."
+            ],
+            [
+                "02:39:48",
+                "PERSON",
+                "People, including fictional"
+            ]
+        ],
+        "possible_tables_from_text": [],
+        "detected_visual_regions": [],
+        "segmented_regions": [
+            {
+                "x": 53,
+                "y": 24,
+                "w": 79,
+                "h": 61,
+                "area": 2467,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 129,
+                "y": 38,
+                "w": 41,
+                "h": 47,
+                "area": 1272,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 198,
+                "y": 38,
+                "w": 69,
+                "h": 46,
+                "area": 1938,
+                "type": "Text/Visual Region"
+            },
+            {
+                "x": 272,
+                "y": 38,
+                "w": 40,
+                "h": 47,
+                "area": 1253,
+                "type": "Text/Visual Region"
+            }
+        ],
+        "preprocessed_image_path": "C:\\Users\\Josh\\CV & NLP\\Labs\\CA2\\ca2-assignment-JoshDuffy3\\preprocessed_output\\receipt-ocr-original_preprocessed.png",
+        "table_ocr_results": [],
+        "number_of_titles": 86,
+        "number_of_paragraphs": 6,
+        "number_of_figure_references": 0,
+        "number_of_table_references": 0,
+        "number_of_possible_tables_from_text": 0,
+        "number_of_detected_table_regions": 0,
+        "number_of_segmented_regions": 4,
+        "number_of_table_ocr_results": 0,
+        "document_insight": "titles/headings identified"
+    }
+]
